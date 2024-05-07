@@ -1,0 +1,1464 @@
+airline_name,overall_rating,verified,aircraft,type_of_traveller,seat_type,seat_comfort,cabin_staff_service,food_beverages,ground_service,inflight_entertainment,wifi_connectivity,value_for_money,recommended,time_before_review,delay_cancellation,review_date,country
+Korean Air,9.0,True,Unknown,Family Leisure,Economy Class,5.0,4.0,5.0,4.0,2.0,1.81,5.0,yes,1 month,False,2019-04-01,Japan
+Hong Kong Airlines,8.0,True,A330,Couple Leisure,Business Class,4.0,4.0,3.0,4.0,3.0,1.81,5.0,yes,2-3 months,False,2018-09-01,Japan
+Hong Kong Airlines,3.0,True,A320,Couple Leisure,Economy Class,2.0,3.0,1.0,2.0,1.0,1.81,3.0,no,1 month,True,2024-03-01,Japan
+China Airlines,1.0,True,Boeing 777-300,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,3.0,yes,1 month,False,2019-10-01,Japan
+Tigerair,2.0,False,A319,Family Leisure,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2017-06-01,Indonesia
+Royal Brunei Airlines,1.0,True,A320-200,Business,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2017-12-01,Indonesia
+Korean Air,2.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2022-05-01,Indonesia
+China Airlines,1.0,True,A350-900,Family Leisure,First Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,True,2020-03-01,Indonesia
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-05-01,India
+Dragonair,1.0,False,A320,Business,Business Class,5.0,2.0,3.0,1.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,China
+China Southern Airlines,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2021-10-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2021-10-01,China
+China Southern Airlines,9.0,True,A380,Business,Economy Class,4.0,4.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2021-11-01,China
+China Southern Airlines,6.0,True,Boeing 787-9,Business,Economy Class,3.0,4.0,4.0,3.0,5.0,2.0,4.0,yes,1 month,False,2021-12-01,China
+China Southern Airlines,1.0,True,Unknown,Business,Economy Class,4.0,4.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2021-12-01,China
+China Southern Airlines,8.0,True,A380,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,5.0,4.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,4.0,4.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,9.0,True,Unknown,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,2.0,5.0,yes,1 month,False,2022-04-01,China
+China Southern Airlines,1.0,True,Boeing 787,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,1.81,4.0,yes,1 month,False,2022-05-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-07-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2022-08-01,China
+China Southern Airlines,8.0,True,A380,Solo Leisure,Business Class,5.0,4.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,False,2022-08-01,China
+China Southern Airlines,9.0,False,Boeing 787-9,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,4.0,1.81,4.0,yes,1 month,False,2022-08-01,China
+China Southern Airlines,9.0,True,Unknown,Business,Economy Class,4.0,4.0,4.0,5.0,4.0,1.81,4.0,yes,1 month,False,2022-08-01,China
+China Southern Airlines,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,1.0,True,A330,Business,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Business Class,4.0,4.0,4.0,5.0,4.0,1.81,4.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,1.0,True,Boeing 787,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,4.0,5.0,yes,1 month,True,2022-09-01,China
+China Southern Airlines,9.0,True,Boeing 787,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,True,2022-09-01,China
+China Southern Airlines,9.0,True,A330,Business,Economy Class,4.0,5.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,9.0,True,A330,Business,Economy Class,4.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,3.0,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-09-01,China
+China Southern Airlines,8.0,True,Others,Solo Leisure,Economy Class,3.0,2.0,3.0,5.0,2.0,1.81,3.0,yes,1 month,True,2022-10-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,4.0,yes,1 month,False,2022-10-01,China
+China Southern Airlines,8.0,True,Boeing 787,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,3.0,5.0,yes,1 month,False,2022-10-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-12-01,China
+China Southern Airlines,9.0,True,Unknown,Business,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2022-12-01,China
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Economy Class,2.0,4.0,3.0,4.0,3.0,1.81,4.0,yes,1 month,False,2022-12-01,China
+China Southern Airlines,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,2-3 months,False,2023-01-01,China
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-01-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-01-01,China
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,1 month,False,2023-02-01,China
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,2.0,1.81,4.0,yes,1 month,True,2023-02-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-02-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-03-01,China
+China Southern Airlines,8.0,True,Boeing 787,Family Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-04-01,China
+China Southern Airlines,9.0,True,Unknown,Business,Business Class,4.0,4.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2023-04-01,China
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-05-01,China
+China Southern Airlines,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2023-05-01,China
+China Southern Airlines,9.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-06-01,China
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,4.0,5.0,yes,1 month,False,2023-06-01,China
+China Southern Airlines,7.0,True,Boeing 787,Solo Leisure,Business Class,4.0,5.0,5.0,5.0,3.0,1.0,3.0,yes,1 month,False,2023-07-01,China
+China Southern Airlines,1.0,True,Unknown,Family Leisure,Economy Class,5.0,4.0,4.0,5.0,5.0,4.0,5.0,yes,1 month,False,2023-07-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2023-07-01,China
+China Southern Airlines,1.0,True,A350-900,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-07-01,China
+China Southern Airlines,1.0,True,A321,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-08-01,China
+China Southern Airlines,9.0,True,Boeing 777-300ER,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-09-01,China
+China Southern Airlines,9.0,True,Boeing 787,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,4.0,4.0,yes,1 month,False,2023-09-01,China
+China Southern Airlines,1.0,True,A350-900,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-09-01,China
+China Southern Airlines,9.0,False,Unknown,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-11-01,China
+China Southern Airlines,8.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,1 month,False,2023-12-01,China
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,4.0,5.0,5.0,4.0,4.0,5.0,yes,1 month,False,2024-01-01,China
+China Southern Airlines,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,2.0,5.0,yes,1 month,False,2024-02-01,China
+China Southern Airlines,1.0,True,Unknown,Business,Economy Class,5.0,5.0,4.0,5.0,5.0,4.0,4.0,yes,1 month,False,2024-03-01,China
+Hong Kong Airlines,9.0,False,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,4.0,yes,1 month,False,2017-02-01,India
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,1.0,1.81,1.0,no,1 month,True,2019-02-01,Philippines
+Royal Brunei Airlines,1.0,True,Boeing 787,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2019-03-01,Philippines
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,1.0,4.0,3.0,1.0,4.0,1.81,1.0,no,1 month,True,2018-08-01,Philippines
+Korean Air,1.0,True,Boeing 777-300,Family Leisure,Business Class,3.0,4.0,4.0,1.0,4.0,1.81,1.0,no,1 month,False,2018-08-01,Philippines
+Hong Kong Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-02-01,Philippines
+China Airlines,5.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,2.0,1.0,5.0,1.81,2.0,no,1 month,False,2019-07-01,Philippines
+China Airlines,8.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2020-02-01,Philippines
+China Airlines,1.0,True,A330-300,Solo Leisure,Business Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-02-01,Philippines
+Hong Kong Airlines,8.0,False,Others,Couple Leisure,Economy Class,3.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2015-07-01,China
+Hong Kong Airlines,1.0,True,A350,Family Leisure,Economy Class,2.0,3.0,2.0,1.0,2.0,1.81,3.0,no,1 month,False,2019-04-01,China
+China Southern Airlines,1.0,True,Unknown,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.0,5.0,yes,1 month,False,2023-12-01,China
+Korean Air,8.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,3.0,4.0,5.0,1.81,4.0,yes,2-3 months,False,2018-09-01,"Korea, South"
+Korean Air,8.0,False,A330-300,Business,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2018-11-01,"Korea, South"
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-11-01,"Korea, South"
+Korean Air,4.0,True,Others,Business,Business Class,2.0,2.0,2.0,3.0,2.0,1.81,4.0,no,1 month,False,2018-11-01,"Korea, South"
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,2.0,no,1 month,False,2018-12-01,"Korea, South"
+Korean Air,9.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.0,1.81,4.0,yes,1 month,False,2019-01-01,"Korea, South"
+Korean Air,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,4.0,4.0,5.0,3.0,1.81,1.0,no,1 month,False,2019-06-01,"Korea, South"
+Korean Air,5.0,True,A380,Family Leisure,Business Class,3.0,4.0,4.0,1.0,4.0,1.81,4.0,no,1 month,False,2019-07-01,"Korea, South"
+Korean Air,8.0,True,Boeing 787-9,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,3.0,1.81,4.0,yes,1 month,False,2019-08-01,"Korea, South"
+Korean Air,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2019-08-01,"Korea, South"
+Korean Air,2.0,True,Unknown,Family Leisure,Economy Class,4.0,1.0,1.0,3.0,2.0,1.81,3.0,no,1 month,False,2019-11-01,"Korea, South"
+Korean Air,5.0,True,Unknown,Solo Leisure,Economy Class,3.0,2.0,3.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-12-01,"Korea, South"
+Korean Air,5.0,True,Boeing 737-800,Family Leisure,First Class,2.0,4.0,3.0,1.0,2.15,1.81,3.0,no,1 month,True,2020-03-01,"Korea, South"
+Korean Air,1.0,False,A330,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,2-3 months,False,2022-05-01,"Korea, South"
+Korean Air,9.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2022-12-01,"Korea, South"
+Korean Air,9.0,True,Boeing 777-300,Solo Leisure,Economy Class,5.0,4.0,5.0,5.0,3.0,1.81,4.0,yes,1 month,True,2023-02-01,"Korea, South"
+Korean Air,9.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-06-01,"Korea, South"
+Korean Air,2.0,True,Unknown,Business,Economy Class,1.0,1.0,2.0,1.0,1.0,1.0,4.0,no,1 month,False,2023-09-01,"Korea, South"
+Korean Air,9.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,"Korea, South"
+Korean Air,9.0,True,Boeing 777-300,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,4.0,1.81,5.0,yes,1 month,False,2024-04-01,"Korea, South"
+China Southern Airlines,4.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,1.0,3.0,1.0,1.0,2.0,no,1 month,False,2023-11-01,"Korea, South"
+China Airlines,3.0,True,Unknown,Solo Leisure,Economy Class,1.0,5.0,2.0,3.0,1.0,1.0,3.0,no,1 month,False,2019-11-01,United States
+China Airlines,1.0,False,Others,Family Leisure,Economy Class,2.0,2.0,1.0,1.0,1.0,1.81,1.0,no,1 month,True,2023-07-01,United States
+Hong Kong Airlines,8.0,False,A330,Family Leisure,Economy Class,4.0,2.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2017-02-01,China
+Hong Kong Airlines,3.0,False,Unknown,Couple Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,1.81,2.0,no,1 month,False,2017-07-01,China
+Hong Kong Airlines,3.0,True,A330,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,2.0,no,1 month,False,2019-01-01,China
+Hong Kong Airlines,8.0,True,A350-900,Business,Economy Class,4.0,5.0,2.0,4.0,4.0,1.81,5.0,yes,2-3 months,False,2019-05-01,China
+China Southern Airlines,1.0,False,A330,Couple Leisure,Business Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-08-01,China
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,1.0,1.81,5.0,yes,1 month,False,2023-10-01,China
+Dragonair,3.0,True,Unknown,Solo Leisure,Economy Class,3.0,1.0,1.0,3.0,1.0,1.0,2.0,no,1 month,False,2018-06-01,India
+Royal Brunei Airlines,9.0,False,Others,Solo Leisure,Business Class,4.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,True,2015-10-01,Thailand
+Royal Brunei Airlines,5.0,True,Unknown,Couple Leisure,Business Class,4.0,1.0,2.0,4.0,2.0,1.81,3.0,yes,1 month,False,2018-02-01,Thailand
+Royal Brunei Airlines,6.0,True,A320,Solo Leisure,Economy Class,4.0,3.0,4.0,4.0,4.0,1.81,4.0,no,1 month,False,2018-03-01,Thailand
+Korean Air,9.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2020-02-01,Thailand
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-01-01,Thailand
+Hong Kong Airlines,7.0,True,A330-200,Solo Leisure,Economy Class,4.0,5.0,2.0,5.0,1.0,1.0,5.0,yes,1 month,False,2018-03-01,Thailand
+Hong Kong Airlines,7.0,True,A330,Couple Leisure,Economy Class,4.0,3.0,3.0,4.0,3.0,3.0,5.0,yes,1 month,False,2018-04-01,Thailand
+Hong Kong Airlines,4.0,True,A350,Couple Leisure,Economy Class,1.0,2.0,1.0,2.0,2.15,1.81,4.0,no,1 month,False,2018-12-01,Thailand
+Hong Kong Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-04-01,Thailand
+Hong Kong Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,3.0,3.0,1.81,3.0,yes,2-3 months,False,2019-05-01,Thailand
+Hong Kong Airlines,1.0,True,Others,Business,Economy Class,4.0,4.0,2.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,Thailand
+Hong Kong Airlines,3.0,True,Unknown,Business,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-11-01,Thailand
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,2-3 months,True,2020-04-01,Thailand
+Hong Kong Airlines,9.0,True,Others,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,1.0,1.81,5.0,yes,1 month,False,2022-12-01,Thailand
+China Southern Airlines,9.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2021-12-01,Thailand
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.81,1.0,no,1 month,False,2023-01-01,Thailand
+China Southern Airlines,8.0,True,Boeing 787-9,Solo Leisure,Economy Class,1.0,5.0,4.0,4.0,4.0,1.81,5.0,yes,1 month,False,2024-01-01,Thailand
+China Airlines,1.0,True,A330-300,Business,Economy Class,4.0,4.0,3.0,1.0,3.0,1.81,2.0,no,1 month,False,2018-10-01,Thailand
+China Airlines,9.0,True,Others,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2018-12-01,Thailand
+China Airlines,3.0,True,Boeing 777,Couple Leisure,Economy Class,4.0,4.0,4.0,2.0,3.0,1.81,4.0,yes,1 month,False,2018-12-01,Thailand
+China Airlines,1.0,True,Unknown,Family Leisure,Business Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2019-02-01,Thailand
+China Airlines,1.0,True,Unknown,Couple Leisure,Premium Economy,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2019-08-01,Thailand
+China Airlines,6.0,True,A350-900,Business,Economy Class,4.0,3.0,3.0,3.0,4.0,1.81,4.0,yes,1 month,True,2019-10-01,Thailand
+China Airlines,6.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,4.0,4.0,1.0,1.81,5.0,yes,1 month,False,2019-12-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2017-12-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-04-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-04-01,Thailand
+Bangkok Airways,8.0,True,A319,Solo Leisure,Economy Class,3.0,5.0,2.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-05-01,Thailand
+Bangkok Airways,5.0,True,A319,Business,Economy Class,3.0,4.0,2.0,4.0,2.0,1.81,2.0,yes,1 month,False,2018-11-01,Thailand
+Bangkok Airways,9.0,True,A319,Solo Leisure,Business Class,4.0,5.0,5.0,5.0,2.15,1.81,4.0,yes,1 month,False,2018-12-01,Thailand
+Bangkok Airways,3.0,True,A320,Business,Economy Class,2.0,4.0,3.0,3.0,2.15,1.81,2.0,no,1 month,False,2019-01-01,Thailand
+Bangkok Airways,9.0,False,Unknown,Couple Leisure,Economy Class,3.0,4.0,1.0,4.0,1.0,1.0,2.0,yes,1 month,False,2019-02-01,Thailand
+Bangkok Airways,6.0,True,A320,Couple Leisure,Economy Class,2.0,3.0,3.0,3.0,2.15,1.81,4.0,no,1 month,True,2019-03-01,Thailand
+Bangkok Airways,8.0,True,A319,Couple Leisure,Economy Class,4.0,4.0,3.0,2.0,2.15,1.81,3.0,yes,2-3 months,False,2019-03-01,Thailand
+Bangkok Airways,9.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,1.0,1.81,5.0,yes,1 month,False,2019-03-01,Thailand
+Bangkok Airways,8.0,True,A319,Family Leisure,Business Class,5.0,3.0,4.0,5.0,4.0,1.81,4.0,yes,+3 months,False,2019-04-01,Thailand
+Bangkok Airways,1.0,True,A319,Family Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,5.0,yes,1 month,False,2019-05-01,Thailand
+Bangkok Airways,9.0,True,A319,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,4.0,yes,1 month,False,2019-06-01,Thailand
+Bangkok Airways,9.0,True,A320,Business,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,5.0,yes,1 month,False,2019-06-01,Thailand
+Bangkok Airways,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.0,1.81,5.0,yes,2-3 months,False,2019-07-01,Thailand
+Bangkok Airways,6.0,True,A320,Solo Leisure,Economy Class,2.0,4.0,5.0,4.0,2.15,1.81,3.0,yes,1 month,False,2019-10-01,Thailand
+Bangkok Airways,8.0,True,Unknown,Solo Leisure,Economy Class,3.0,4.0,5.0,4.0,2.15,1.81,3.0,yes,1 month,False,2019-10-01,Thailand
+Bangkok Airways,1.0,True,A319,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-12-01,Thailand
+Bangkok Airways,6.0,False,A319,Family Leisure,Economy Class,4.0,3.0,4.0,2.0,2.15,1.81,4.0,yes,1 month,False,2020-01-01,Thailand
+Bangkok Airways,9.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,5.0,yes,1 month,True,2020-03-01,Thailand
+Bangkok Airways,8.0,True,A320-200,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,4.0,yes,2-3 months,False,2020-05-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2021-09-01,Thailand
+Bangkok Airways,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2021-12-01,Thailand
+Bangkok Airways,1.0,True,A319,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-04-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Business,Economy Class,3.0,4.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2022-06-01,Thailand
+Bangkok Airways,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,1.0,1.81,5.0,yes,1 month,False,2022-10-01,Thailand
+Bangkok Airways,4.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,2.0,2.15,1.81,2.0,no,1 month,False,2022-10-01,Thailand
+Bangkok Airways,1.0,True,A319,Couple Leisure,Economy Class,4.0,4.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2022-11-01,Thailand
+Bangkok Airways,1.0,True,A319,Family Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,2-3 months,False,2022-12-01,Thailand
+Bangkok Airways,1.0,False,A320,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-12-01,Thailand
+Bangkok Airways,8.0,True,A320,Couple Leisure,Economy Class,5.0,4.0,2.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-01-01,Thailand
+Bangkok Airways,3.0,True,Unknown,Couple Leisure,Economy Class,3.0,3.0,2.56,2.0,2.15,1.81,2.0,no,1 month,True,2023-02-01,Thailand
+Bangkok Airways,8.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,2-3 months,False,2023-02-01,Thailand
+Bangkok Airways,8.0,True,A319,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,3.0,yes,1 month,True,2023-04-01,Thailand
+Bangkok Airways,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-05-01,Thailand
+Bangkok Airways,1.0,True,A319,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-09-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,1.0,no,1 month,True,2024-04-01,Thailand
+Bangkok Airways,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,2.0,1.81,5.0,yes,1 month,True,2024-04-01,Thailand
+China Southern Airlines,9.0,True,A321,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-12-01,China
+Germanwings,1.0,False,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,2.15,1.81,1.0,no,1 month,True,2015-09-01,Turkey
+Tigerair,2.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,2.0,1.0,2.15,1.81,2.0,no,1 month,True,2015-12-01,India
+Dragonair,5.0,False,Unknown,Family Leisure,Economy Class,4.0,2.0,1.0,2.0,3.0,3.0,4.0,yes,+3 months,True,2021-11-01,India
+Tigerair,6.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,3.0,2.15,1.81,4.0,yes,1 month,False,2015-07-01,Vietnam
+Tigerair,1.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2017-04-01,Vietnam
+Korean Air,1.0,True,A330-300,Business,Business Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2020-01-01,Vietnam
+Korean Air,2.0,False,Unknown,Family Leisure,Economy Class,1.0,2.0,1.0,2.0,1.0,1.0,1.0,no,1 month,False,2023-06-01,Vietnam
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2019-12-01,Vietnam
+China Airlines,2.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,1.81,2.0,no,1 month,False,2023-05-01,Vietnam
+Hong Kong Airlines,2.0,True,A330,Couple Leisure,Business Class,4.0,1.0,3.0,3.0,2.0,1.81,3.0,no,1 month,False,2019-01-01,Japan
+SilkAir,4.0,True,Boeing 737-800,Solo Leisure,Business Class,1.0,5.0,3.0,4.0,1.0,4.0,3.0,no,1 month,False,2019-11-01,China
+China Southern Airlines,9.0,False,Boeing 787,Solo Leisure,Economy Class,5.0,4.0,4.0,5.0,4.0,3.0,5.0,yes,1 month,False,2022-07-01,China
+Hong Kong Airlines,8.0,False,A320,Couple Leisure,Economy Class,3.0,5.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,China
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,2.0,1.0,1.0,1.0,2.0,1.0,3.0,no,1 month,False,2018-10-01,United States
+Korean Air,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-11-01,United States
+Korean Air,2.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,4.0,1.0,2.0,no,1 month,False,2019-02-01,United States
+Korean Air,3.0,True,A380,Solo Leisure,Economy Class,4.0,2.0,2.0,1.0,3.0,1.81,4.0,no,1 month,False,2019-09-01,United States
+Korean Air,9.0,True,Boeing 777-300ER,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,3.0,1.81,4.0,yes,1 month,False,2023-01-01,United States
+Korean Air,9.0,False,Others,Couple Leisure,Economy Class,3.0,5.0,3.0,3.0,3.0,1.81,4.0,yes,1 month,False,2024-01-01,United States
+Korean Air,9.0,True,A380,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2024-02-01,United States
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,2.0,1.0,3.0,1.81,1.0,no,1 month,True,2019-01-01,United States
+Hong Kong Airlines,8.0,True,A350,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,5.0,3.0,5.0,yes,1 month,False,2019-04-01,United States
+Hong Kong Airlines,3.0,False,Others,Business,Business Class,3.0,2.0,2.0,3.0,2.15,1.0,2.0,no,1 month,False,2019-09-01,United States
+China Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,2.0,1.0,no,1 month,False,2019-05-01,United States
+China Airlines,3.0,False,Unknown,Family Leisure,Premium Economy,3.0,2.0,3.0,3.0,4.0,4.0,2.0,no,1 month,False,2019-09-01,United States
+China Airlines,7.0,True,Others,Family Leisure,Economy Class,5.0,2.0,5.0,4.0,5.0,5.0,4.0,yes,1 month,False,2019-12-01,United States
+China Airlines,2.0,False,Boeing 777,Solo Leisure,Economy Class,3.0,2.0,2.0,1.0,3.0,2.0,2.0,no,1 month,False,2023-03-01,United States
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,3.0,4.0,1.81,5.0,yes,1 month,False,2015-08-01,United Kingdom
+Royal Brunei Airlines,7.0,False,Boeing 787-8,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,United Kingdom
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,+3 months,False,2015-12-01,United Kingdom
+Royal Brunei Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.0,5.0,yes,1 month,False,2018-02-01,United Kingdom
+Royal Brunei Airlines,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,1.0,4.0,1.81,5.0,no,1 month,False,2018-04-01,United Kingdom
+Royal Brunei Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,False,2018-11-01,United Kingdom
+Royal Brunei Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,5.0,5.0,5.0,yes,1 month,False,2018-12-01,United Kingdom
+Royal Brunei Airlines,1.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2018-12-01,United Kingdom
+Royal Brunei Airlines,5.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,2.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-04-01,United Kingdom
+Royal Brunei Airlines,1.0,False,Boeing 787,Family Leisure,Economy Class,4.0,5.0,5.0,1.0,5.0,5.0,1.0,no,1 month,False,2019-10-01,United Kingdom
+Royal Brunei Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,1.0,4.0,1.0,2.0,1.0,1.81,1.0,no,2-3 months,True,2020-02-01,United Kingdom
+Royal Brunei Airlines,2.0,True,Others,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.81,1.0,no,1 month,False,2023-01-01,United Kingdom
+Royal Brunei Airlines,9.0,False,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-08-01,United Kingdom
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-09-01,United Kingdom
+Korean Air,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,False,2019-11-01,United Kingdom
+Korean Air,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,4.0,5.0,4.0,4.0,1.81,4.0,yes,1 month,False,2023-01-01,United Kingdom
+Germanwings,2.0,False,Unknown,Business,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,1.0,no,1 month,True,2015-11-01,United Kingdom
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,+3 months,True,2023-09-01,United Kingdom
+China Southern Airlines,9.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-09-01,United Kingdom
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,First Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,United Kingdom
+China Southern Airlines,1.0,True,Boeing 787,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-02-01,United Kingdom
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,4.0,1.0,1.0,1.0,1.81,2.0,no,1 month,True,2024-03-01,United Kingdom
+China Southern Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2024-03-01,United Kingdom
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,1.0,2.0,1.0,3.0,3.0,no,1 month,False,2020-03-01,United Kingdom
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2021-03-01,United Kingdom
+Korean Air,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-08-01,France
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.0,1.0,5.0,1.0,3.0,no,1 month,False,2023-07-01,France
+China Southern Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,3.0,2.0,1.0,1.0,3.0,1.81,1.0,no,1 month,False,2024-01-01,France
+Bulgaria Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,+3 months,False,2015-06-01,France
+China Airlines,9.0,True,A330-300,Couple Leisure,Business Class,4.0,5.0,4.0,4.0,5.0,4.0,5.0,yes,1 month,False,2019-01-01,Japan
+SilkAir,7.0,False,Boeing 737-800,Solo Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2017-04-01,Malaysia
+SilkAir,1.0,False,Boeing 737-800,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-06-01,Malaysia
+SilkAir,1.0,True,Boeing 737-800,Business,Economy Class,2.0,2.0,1.0,1.0,1.0,1.81,1.0,no,1 month,True,2019-08-01,Malaysia
+SilkAir,5.0,True,Unknown,Family Leisure,Economy Class,3.0,3.0,2.56,4.0,2.15,1.81,2.0,no,1 month,True,2019-10-01,Malaysia
+SilkAir,3.0,True,Boeing 737,Business,Economy Class,2.0,4.0,2.56,5.0,2.15,1.81,3.0,no,1 month,True,2019-12-01,Malaysia
+Korean Air,8.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,4.0,1.81,4.0,yes,+3 months,True,2020-02-01,Malaysia
+Korean Air,7.0,True,Others,Family Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,False,2020-03-01,Malaysia
+China Southern Airlines,8.0,False,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2024-03-01,Malaysia
+China Southern Airlines,8.0,True,A350,Solo Leisure,Economy Class,5.0,4.0,3.0,3.0,4.0,1.81,5.0,yes,1 month,False,2024-03-01,Malaysia
+Korean Air,2.0,True,Boeing 777,Business,Business Class,1.0,1.0,1.0,2.0,1.0,1.81,1.0,no,1 month,False,2019-05-01,United States
+Tigerair,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2017-08-01,Vietnam
+Dragonair,2.0,False,A321,Business,Economy Class,1.0,1.0,1.0,2.0,5.0,1.81,1.0,no,+3 months,False,2015-07-01,Vietnam
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,2.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-04-01,Vietnam
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,2.0,4.0,2.0,2.0,1.0,no,1 month,False,2024-03-01,Vietnam
+Bangkok Airways,1.0,True,Unknown,Business,Economy Class,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2018-09-01,Vietnam
+Tigerair,6.0,False,Unknown,Family Leisure,Economy Class,3.0,4.0,2.0,3.0,2.15,1.81,4.0,yes,1 month,False,2015-10-01,Hong Kong
+Korean Air,5.0,True,Unknown,Solo Leisure,Business Class,4.0,3.0,4.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-09-01,Hong Kong
+Hong Kong Airlines,4.0,False,A330,Solo Leisure,Economy Class,4.0,3.0,1.0,2.0,4.0,1.81,3.0,no,1 month,True,2015-08-01,Hong Kong
+Hong Kong Airlines,8.0,False,A330-200,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,3.0,1.81,4.0,yes,2-3 months,True,2015-09-01,Hong Kong
+Hong Kong Airlines,8.0,False,A330,Solo Leisure,Economy Class,4.0,5.0,4.0,3.0,2.15,1.81,5.0,yes,1 month,True,2015-11-01,Hong Kong
+Hong Kong Airlines,5.0,False,A330-300,Couple Leisure,Business Class,3.0,5.0,4.0,2.0,3.0,1.81,5.0,no,1 month,False,2017-04-01,Hong Kong
+Hong Kong Airlines,3.0,False,A320,Couple Leisure,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2017-06-01,Hong Kong
+Hong Kong Airlines,2.0,False,Unknown,Family Leisure,Economy Class,3.0,3.0,3.0,2.0,3.0,3.0,3.0,no,1 month,True,2017-08-01,Hong Kong
+Hong Kong Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,2.0,1.81,4.0,yes,1 month,False,2017-10-01,Hong Kong
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2018-04-01,Hong Kong
+Hong Kong Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,3.0,1.0,5.0,2.15,1.81,4.0,yes,2-3 months,False,2018-05-01,Hong Kong
+Hong Kong Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2018-05-01,Hong Kong
+Hong Kong Airlines,7.0,True,A330,Couple Leisure,Economy Class,4.0,4.0,5.0,4.0,3.0,1.81,5.0,yes,+3 months,False,2018-05-01,Hong Kong
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-06-01,Hong Kong
+Hong Kong Airlines,2.0,True,A320,Couple Leisure,Economy Class,3.0,2.0,2.0,5.0,2.15,1.81,2.0,no,2-3 months,False,2018-06-01,Hong Kong
+Hong Kong Airlines,8.0,True,Others,Solo Leisure,Business Class,4.0,5.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2018-08-01,Hong Kong
+Hong Kong Airlines,1.0,True,A330,Family Leisure,Economy Class,3.0,4.0,2.0,1.0,2.15,1.81,1.0,no,1 month,False,2018-11-01,Hong Kong
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-11-01,Hong Kong
+Hong Kong Airlines,5.0,True,A330,Family Leisure,Economy Class,2.0,4.0,2.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-01-01,Hong Kong
+Hong Kong Airlines,8.0,True,A330,Solo Leisure,Business Class,3.0,4.0,3.0,4.0,3.0,1.81,4.0,yes,1 month,False,2019-01-01,Hong Kong
+Hong Kong Airlines,9.0,True,A330-300,Solo Leisure,Business Class,4.0,4.0,3.0,4.0,3.0,1.81,4.0,yes,1 month,False,2019-04-01,Hong Kong
+Hong Kong Airlines,3.0,True,Unknown,Solo Leisure,Economy Class,2.0,4.0,4.0,1.0,4.0,1.81,2.0,yes,1 month,True,2019-08-01,Hong Kong
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,5.0,3.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-08-01,Hong Kong
+Hong Kong Airlines,8.0,True,A330,Solo Leisure,Economy Class,2.0,3.0,2.0,4.0,3.0,1.81,3.0,no,1 month,False,2019-10-01,Hong Kong
+Hong Kong Airlines,7.0,True,A330,Solo Leisure,Economy Class,4.0,5.0,1.0,2.0,1.0,1.81,3.0,yes,1 month,False,2019-12-01,Hong Kong
+Hong Kong Airlines,8.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,4.0,4.0,5.0,yes,1 month,False,2023-03-01,Hong Kong
+Hong Kong Airlines,7.0,True,A320,Solo Leisure,Economy Class,3.0,3.0,3.0,4.0,3.0,3.0,4.0,yes,1 month,False,2023-04-01,Hong Kong
+Hong Kong Airlines,7.0,False,A330-300,Family Leisure,Economy Class,4.0,5.0,3.0,4.0,1.0,4.0,3.0,yes,1 month,False,2023-04-01,Hong Kong
+Hong Kong Airlines,4.0,True,Unknown,Business,Economy Class,3.0,4.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-06-01,Hong Kong
+Hong Kong Airlines,3.0,True,Unknown,Solo Leisure,Economy Class,2.0,5.0,3.0,1.0,2.0,1.81,1.0,no,1 month,False,2023-10-01,Hong Kong
+Dragonair,3.0,False,A330,Solo Leisure,Economy Class,3.0,2.0,2.0,1.0,2.0,1.81,1.0,no,1 month,True,2015-08-01,Hong Kong
+Dragonair,9.0,False,A330,Business,Economy Class,4.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2015-08-01,Hong Kong
+Dragonair,7.0,False,A330-300,Solo Leisure,Economy Class,4.0,2.0,1.0,5.0,4.0,1.81,4.0,yes,+3 months,False,2015-08-01,Hong Kong
+Dragonair,9.0,False,A321,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2015-10-01,Hong Kong
+Dragonair,7.0,False,A320-200,Family Leisure,Economy Class,3.0,5.0,3.0,4.0,2.0,2.0,5.0,yes,1 month,False,2015-11-01,Hong Kong
+Dragonair,8.0,False,A330,Business,Business Class,4.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2017-02-01,Hong Kong
+China Airlines,3.0,True,Others,Couple Leisure,Business Class,3.0,4.0,4.0,1.0,2.0,1.81,4.0,no,1 month,False,2019-01-01,Hong Kong
+China Airlines,1.0,True,A340,Family Leisure,Economy Class,3.0,3.0,2.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-04-01,Hong Kong
+China Airlines,9.0,True,E190,Family Leisure,Economy Class,5.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,False,2020-02-01,Hong Kong
+China Airlines,1.0,True,Unknown,Business,Premium Economy,1.0,1.0,1.0,1.0,1.0,1.81,1.0,no,2-3 months,True,2020-04-01,Hong Kong
+SilkAir,2.0,True,Unknown,Business,Economy Class,1.0,1.0,3.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-03-01,Indonesia
+Royal Brunei Airlines,8.0,True,A320,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,5.0,4.0,4.0,yes,1 month,False,2019-06-01,Indonesia
+Tigerair,9.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,1.81,4.0,yes,2-3 months,False,2015-09-01,Singapore
+Tigerair,8.0,False,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,5.0,yes,1 month,False,2015-09-01,Singapore
+Tigerair,1.0,False,Unknown,Family Leisure,Economy Class,2.6,2.87,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2015-10-01,Singapore
+Tigerair,9.0,False,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,2.15,1.81,5.0,yes,+3 months,True,2015-10-01,Singapore
+Tigerair,1.0,False,A320,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2016-06-01,Singapore
+Tigerair,1.0,False,Unknown,Business,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-01-01,Singapore
+Tigerair,9.0,False,Unknown,Family Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,4.0,yes,1 month,False,2017-02-01,Singapore
+Tigerair,8.0,False,Unknown,Family Leisure,Economy Class,3.0,5.0,3.0,3.0,2.15,1.81,4.0,yes,1 month,False,2017-03-01,Singapore
+Tigerair,1.0,False,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,1.0,1.81,1.0,no,1 month,False,2017-04-01,Singapore
+Tigerair,8.0,False,A320,Business,Economy Class,3.0,5.0,2.56,3.0,2.15,1.81,5.0,yes,1 month,False,2017-05-01,Singapore
+SilkAir,8.0,False,A320,Solo Leisure,Business Class,4.0,5.0,4.0,4.0,3.0,1.81,4.0,yes,1 month,False,2015-09-01,Singapore
+SilkAir,3.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,2.0,2.0,2.0,1.0,1.81,2.0,no,1 month,False,2015-10-01,Singapore
+SilkAir,6.0,False,A320-200,Family Leisure,Economy Class,3.0,3.0,4.0,3.0,2.0,1.81,3.0,yes,1 month,False,2015-12-01,Singapore
+SilkAir,9.0,False,A320,Couple Leisure,Economy Class,4.0,4.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2017-01-01,Singapore
+SilkAir,9.0,False,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,3.0,3.0,5.0,yes,1 month,True,2017-04-01,Singapore
+SilkAir,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,True,2017-05-01,Singapore
+SilkAir,8.0,False,Others,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,True,2017-06-01,Singapore
+SilkAir,8.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,4.0,4.0,2.0,1.81,3.0,yes,2-3 months,False,2017-06-01,Singapore
+SilkAir,8.0,False,Boeing 737,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,3.0,2.0,4.0,yes,1 month,False,2017-08-01,Singapore
+SilkAir,8.0,False,Boeing 737-800,Family Leisure,Economy Class,5.0,4.0,3.0,4.0,4.0,1.81,5.0,yes,1 month,False,2017-09-01,Singapore
+SilkAir,8.0,True,A319,Family Leisure,Economy Class,4.0,4.0,4.0,5.0,3.0,1.81,4.0,yes,1 month,False,2017-12-01,Singapore
+SilkAir,1.0,True,Unknown,Business,Economy Class,3.0,1.0,1.0,1.0,2.15,1.81,2.0,no,1 month,True,2018-03-01,Singapore
+SilkAir,9.0,True,Boeing 737-800,Solo Leisure,Business Class,3.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,1 month,False,2018-04-01,Singapore
+SilkAir,9.0,False,A320,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,3.0,1.81,2.0,yes,1 month,False,2018-06-01,Singapore
+SilkAir,4.0,True,Boeing 737,Business,Economy Class,3.0,4.0,3.0,3.0,1.0,1.0,1.0,no,1 month,False,2018-07-01,Singapore
+SilkAir,4.0,True,Unknown,Couple Leisure,Economy Class,3.0,1.0,2.0,3.0,2.0,1.81,2.0,no,1 month,False,2018-07-01,Singapore
+SilkAir,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,4.0,4.0,3.0,1.81,3.0,yes,1 month,False,2018-07-01,Singapore
+SilkAir,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,3.0,1.81,3.0,yes,1 month,False,2018-11-01,Singapore
+SilkAir,4.0,True,A320,Couple Leisure,Business Class,2.0,2.0,1.0,1.0,3.0,2.0,2.0,no,1 month,False,2018-12-01,Singapore
+SilkAir,7.0,True,Unknown,Couple Leisure,Economy Class,3.0,3.0,2.0,3.0,3.0,1.81,3.0,yes,1 month,False,2019-01-01,Singapore
+SilkAir,4.0,True,Unknown,Business,Economy Class,1.0,4.0,1.0,5.0,1.0,3.0,1.0,no,1 month,False,2019-01-01,Singapore
+SilkAir,3.0,True,Unknown,Business,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,2-3 months,True,2019-05-01,Singapore
+SilkAir,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,1.0,1.81,3.0,yes,1 month,True,2019-05-01,Singapore
+SilkAir,6.0,True,Boeing 737,Family Leisure,Economy Class,3.0,4.0,2.56,5.0,2.15,1.81,4.0,yes,1 month,False,2019-10-01,Singapore
+SilkAir,3.0,True,Unknown,Family Leisure,Economy Class,1.0,2.0,1.0,2.0,2.15,1.0,2.0,no,1 month,False,2019-11-01,Singapore
+SilkAir,6.0,True,A320,Business,Economy Class,3.0,3.0,2.0,3.0,2.15,1.81,3.0,yes,1 month,False,2019-11-01,Singapore
+SilkAir,1.0,True,Boeing 737-800,Family Leisure,Economy Class,1.0,2.0,1.0,2.0,1.0,1.0,2.0,no,1 month,True,2020-01-01,Singapore
+SilkAir,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,2.0,1.0,3.0,1.0,1.0,1.0,no,1 month,False,2020-02-01,Singapore
+SilkAir,9.0,True,A320,Couple Leisure,Economy Class,3.0,5.0,5.0,4.0,1.0,1.0,4.0,yes,1 month,False,2020-02-01,Singapore
+SilkAir,2.0,True,Boeing 737,Couple Leisure,Economy Class,3.0,2.0,1.0,2.0,1.0,1.81,2.0,no,1 month,True,2020-02-01,Singapore
+SilkAir,1.0,True,A319,Couple Leisure,Economy Class,4.0,5.0,3.0,1.0,4.0,1.81,5.0,yes,1 month,False,2020-03-01,Singapore
+SilkAir,8.0,True,Boeing 737-800,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,2.15,1.81,4.0,no,2-3 months,False,2020-06-01,Singapore
+SilkAir,2.0,True,Unknown,Business,Premium Economy,2.0,3.0,3.0,1.0,2.15,1.81,4.0,no,1 month,False,2020-10-01,Singapore
+Korean Air,8.0,True,Boeing 777,Business,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,2-3 months,False,2022-08-01,Singapore
+Korean Air,7.0,True,Boeing 777-300ER,Solo Leisure,Business Class,5.0,4.0,4.0,5.0,3.0,1.81,4.0,yes,1 month,False,2023-04-01,Singapore
+Korean Air,1.0,True,Unknown,Business,Economy Class,4.0,5.0,4.0,4.0,3.0,1.81,4.0,yes,1 month,False,2023-04-01,Singapore
+Korean Air,9.0,True,Boeing 777,Business,Economy Class,5.0,4.0,5.0,5.0,3.0,3.0,5.0,yes,1 month,False,2024-04-01,Singapore
+China Southern Airlines,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2021-11-01,Singapore
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-08-01,Singapore
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,False,2020-03-01,Singapore
+China Airlines,8.0,False,A350,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,3.0,1.81,4.0,yes,1 month,False,2023-03-01,Singapore
+China Airlines,7.0,True,A350-900,Family Leisure,Premium Economy,5.0,3.0,2.0,5.0,3.0,1.81,5.0,yes,1 month,False,2023-11-01,Singapore
+Bangkok Airways,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,3.0,yes,1 month,True,2019-08-01,Singapore
+Korean Air,6.0,True,A380,Solo Leisure,Economy Class,4.0,3.0,3.0,3.0,4.0,1.81,3.0,no,1 month,True,2019-08-01,China
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-03-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Virgin Australia,6.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,2.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-11-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-12-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Business Class,4.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-01-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2024-01-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2024-02-01,Australia
+Virgin Australia,5.0,True,Unknown,Family Leisure,Economy Class,3.0,3.0,2.56,2.0,2.15,1.81,2.0,no,1 month,True,2024-03-01,Australia
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,False,2024-03-01,Australia
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,3.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,Australia
+Virgin Australia,8.0,True,Others,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-04-01,Australia
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2024-04-01,Australia
+Tigerair,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-05-01,Australia
+Tigerair,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,3.0,1.0,3.0,2.0,no,1 month,True,2018-12-01,Australia
+Tigerair,1.0,True,A320,Family Leisure,Economy Class,1.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-03-01,Australia
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-03-01,Australia
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,3.0,3.0,2.0,3.0,2.0,1.0,1.0,no,1 month,True,2019-07-01,Australia
+Tigerair,2.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-10-01,Australia
+Tigerair,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,2.0,2.15,1.81,2.0,no,1 month,True,2019-11-01,Australia
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2019-11-01,Australia
+Royal Brunei Airlines,9.0,False,Others,Business,Business Class,4.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-06-01,Australia
+Royal Brunei Airlines,7.0,False,Boeing 787,Solo Leisure,Business Class,3.0,5.0,2.0,3.0,2.0,1.81,4.0,yes,Unknown,False,2015-07-01,Australia
+Royal Brunei Airlines,9.0,False,Boeing 787,Couple Leisure,Economy Class,5.0,4.0,4.0,5.0,4.0,3.0,5.0,yes,1 month,False,2015-08-01,Australia
+Royal Brunei Airlines,9.0,False,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,Australia
+Royal Brunei Airlines,9.0,False,Boeing 787,Couple Leisure,Business Class,4.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,Australia
+Royal Brunei Airlines,6.0,False,Unknown,Couple Leisure,Economy Class,1.0,5.0,4.0,4.0,5.0,4.0,4.0,no,2-3 months,False,2017-07-01,Australia
+Royal Brunei Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2017-07-01,Australia
+Royal Brunei Airlines,9.0,False,Others,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,2.0,1.81,5.0,yes,1 month,False,2017-07-01,Australia
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-01-01,Australia
+Royal Brunei Airlines,9.0,True,Unknown,Couple Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,2-3 months,True,2018-02-01,Australia
+Royal Brunei Airlines,1.0,True,Boeing 787,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,2-3 months,False,2018-03-01,Australia
+Royal Brunei Airlines,9.0,True,Others,Couple Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,4.0,5.0,yes,1 month,False,2018-06-01,Australia
+Royal Brunei Airlines,5.0,True,Boeing 787,Family Leisure,Business Class,3.0,3.0,4.0,3.0,2.0,1.81,3.0,no,1 month,False,2018-09-01,Australia
+Royal Brunei Airlines,1.0,False,Others,Family Leisure,Business Class,4.0,4.0,2.0,1.0,1.0,1.81,2.0,no,2-3 months,True,2019-02-01,Australia
+Royal Brunei Airlines,9.0,False,Unknown,Business,Business Class,4.0,4.0,5.0,4.0,4.0,4.0,4.0,yes,+3 months,False,2019-06-01,Australia
+Royal Brunei Airlines,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,Australia
+Royal Brunei Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,3.0,3.0,2.0,1.81,2.0,no,+3 months,False,2020-01-01,Australia
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,1.81,1.0,no,1 month,True,2020-01-01,Australia
+Royal Brunei Airlines,5.0,False,Boeing 787,Family Leisure,Business Class,5.0,2.0,2.0,4.0,2.0,1.81,2.0,no,1 month,False,2020-01-01,Australia
+Royal Brunei Airlines,2.0,False,Unknown,Family Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,2.0,2.0,no,2-3 months,True,2020-02-01,Australia
+Royal Brunei Airlines,3.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,3.0,1.0,3.0,1.0,1.0,no,1 month,False,2022-09-01,Australia
+Royal Brunei Airlines,7.0,False,Others,Couple Leisure,Economy Class,3.0,5.0,4.0,4.0,2.0,1.81,4.0,yes,1 month,False,2023-07-01,Australia
+QantasLink,9.0,True,Others,Couple Leisure,Business Class,5.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,False,2020-12-01,Australia
+QantasLink,2.0,True,Unknown,Solo Leisure,Economy Class,2.0,5.0,5.0,1.0,2.15,1.81,2.0,no,1 month,True,2022-04-01,Australia
+QantasLink,3.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,2.15,1.81,2.0,yes,1 month,False,2022-06-01,Australia
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-02-01,Australia
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,3.0,1.81,5.0,yes,1 month,False,2023-11-01,Australia
+China Airlines,7.0,True,Others,Solo Leisure,Business Class,4.0,4.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,True,2019-07-01,Australia
+China Airlines,9.0,True,A350,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,5.0,5.0,5.0,yes,1 month,True,2019-08-01,Australia
+Germanwings,6.0,True,A319,Couple Leisure,Economy Class,3.0,3.0,2.56,3.0,1.0,1.81,5.0,yes,1 month,True,2019-07-01,Germany
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-11-01,Australia
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-11-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-12-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2024-01-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-01-01,Australia
+Virgin Australia,8.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2024-02-01,Australia
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2024-02-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,Australia
+Virgin Australia,1.0,True,Unknown,Business,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2024-04-01,Australia
+Tigerair,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-05-01,Australia
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,1.0,1.81,1.0,no,1 month,False,2018-03-01,Australia
+Tigerair,8.0,True,A320,Business,Economy Class,4.0,4.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-04-01,Australia
+Tigerair,1.0,True,Unknown,Business,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2018-08-01,Australia
+Tigerair,1.0,False,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-10-01,Australia
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-10-01,Australia
+QantasLink,6.0,False,A330,Solo Leisure,Economy Class,4.0,3.0,3.0,3.0,3.0,1.0,3.0,yes,1 month,True,2017-09-01,Australia
+QantasLink,1.0,True,Others,Business,Economy Class,1.0,2.0,2.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-04-01,Australia
+Korean Air,8.0,True,A330-300,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,3.0,1.81,4.0,yes,1 month,False,2019-08-01,Australia
+Korean Air,2.0,True,Unknown,Family Leisure,Business Class,2.0,1.0,1.0,1.0,1.0,1.0,2.0,no,1 month,True,2019-10-01,Australia
+China Southern Airlines,5.0,False,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,1.0,4.0,4.0,4.0,no,2-3 months,False,2023-09-01,Australia
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2023-09-01,Australia
+China Southern Airlines,4.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,2.0,2.0,2.0,3.0,no,1 month,False,2023-09-01,Australia
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2023-10-01,Australia
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Business Class,3.0,5.0,4.0,3.0,2.0,1.81,5.0,yes,1 month,False,2023-11-01,Australia
+China Southern Airlines,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,2.0,5.0,yes,1 month,False,2024-04-01,Australia
+China Airlines,9.0,True,Others,Couple Leisure,Business Class,5.0,5.0,5.0,4.0,2.15,2.0,5.0,yes,1 month,False,2018-12-01,Australia
+China Airlines,1.0,True,A350,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-05-01,Australia
+China Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,3.0,1.0,3.0,1.81,2.0,no,+3 months,False,2019-05-01,Australia
+China Airlines,9.0,True,Unknown,Business,Business Class,4.0,5.0,5.0,5.0,4.0,5.0,5.0,yes,1 month,False,2023-01-01,Australia
+China Airlines,1.0,True,Others,Solo Leisure,Business Class,1.0,3.0,3.0,3.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,Australia
+China Airlines,1.0,False,Others,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2024-03-01,Australia
+Korean Air,8.0,True,Boeing 787-9,Solo Leisure,Economy Class,5.0,5.0,4.0,3.0,3.0,1.81,3.0,yes,1 month,False,2024-01-01,Spain
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,True,2023-06-01,China
+Royal Brunei Airlines,1.0,True,Boeing 787,Couple Leisure,Economy Class,1.0,3.0,2.0,1.0,1.0,1.81,1.0,no,1 month,False,2020-02-01,Saudi Arabia
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,1 month,False,2022-03-01,China
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2021-10-01,China
+Korean Air,1.0,False,Unknown,Family Leisure,Economy Class,3.0,4.0,3.0,3.0,3.0,1.81,1.0,no,+3 months,True,2022-11-01,Canada
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,1.0,1.0,1.0,no,1 month,True,2018-11-01,United States
+Korean Air,8.0,False,A330-300,Solo Leisure,Business Class,5.0,5.0,2.0,4.0,2.15,1.81,4.0,yes,1 month,False,2018-08-01,"Korea, South"
+Korean Air,7.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,1.0,3.0,2.15,3.0,3.0,yes,1 month,True,2023-08-01,"Korea, South"
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-09-01,China
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,United States
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,United States
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,United States
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,United States
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,United States
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,United States
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,United States
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,United States
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,United States
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,United States
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,United States
+Royal Brunei Airlines,2.0,False,Others,Couple Leisure,Economy Class,2.0,1.0,1.0,1.0,3.0,1.81,2.0,no,1 month,False,2015-09-01,United Arab Emirates
+Royal Brunei Airlines,8.0,False,Unknown,Solo Leisure,Economy Class,4.0,4.0,5.0,4.0,5.0,4.0,5.0,yes,1 month,False,2017-03-01,United Arab Emirates
+Royal Brunei Airlines,8.0,True,Boeing 787,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,4.0,1.81,4.0,yes,+3 months,False,2018-07-01,United Arab Emirates
+Royal Brunei Airlines,5.0,True,Others,Business,Business Class,4.0,1.0,4.0,3.0,2.15,1.81,3.0,no,1 month,False,2019-09-01,United Arab Emirates
+Royal Brunei Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,3.0,1.0,1.0,3.0,1.81,1.0,no,1 month,True,2019-12-01,United Arab Emirates
+Royal Brunei Airlines,9.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,4.0,1.81,3.0,yes,1 month,False,2023-07-01,United Arab Emirates
+Royal Brunei Airlines,9.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,5.0,2.0,4.0,1.81,5.0,yes,1 month,True,2023-07-01,United Arab Emirates
+Korean Air,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,2.0,no,1 month,False,2023-09-01,United Arab Emirates
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,Greece
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-02-01,"Korea, South"
+Korean Air,9.0,True,A380,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-04-01,"Korea, South"
+Korean Air,3.0,True,Unknown,Business,Economy Class,3.0,4.0,3.0,2.0,2.0,1.81,2.0,no,1 month,False,2019-06-01,"Korea, South"
+Korean Air,3.0,True,Others,Business,Economy Class,2.0,2.0,1.0,2.0,2.0,1.81,2.0,no,2-3 months,False,2019-09-01,"Korea, South"
+Korean Air,7.0,False,A330-300,Family Leisure,Economy Class,4.0,3.0,5.0,5.0,2.0,1.81,4.0,yes,1 month,False,2023-03-01,"Korea, South"
+Korean Air,1.0,False,Others,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,4.0,1.81,5.0,yes,1 month,False,2023-05-01,"Korea, South"
+Thomson Airways,6.0,False,Others,Family Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.81,4.0,yes,1 month,True,2017-04-01,United Kingdom
+Thomson Airways,1.0,False,Boeing 737-800,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,True,2017-06-01,United Kingdom
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,3.0,1.0,2.56,1.0,5.0,1.81,2.0,no,1 month,False,2017-07-01,United Kingdom
+Thomson Airways,1.0,True,A320,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-07-01,United Kingdom
+Germanwings,2.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,2.0,no,1 month,True,2015-10-01,Germany
+China Southern Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,3.0,no,1 month,False,2023-11-01,Italy
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2024-01-01,Italy
+Bulgaria Air,1.0,False,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,2.0,no,1 month,False,2015-10-01,Italy
+China Airlines,1.0,True,A330,Business,Business Class,3.0,1.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2019-01-01,Taiwan
+Tigerair,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,3.0,2.56,3.0,2.15,1.81,1.0,no,1 month,False,2018-03-01,Taiwan
+Korean Air,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,True,2018-08-01,Taiwan
+China Airlines,1.0,True,Boeing 777-300ER,Solo Leisure,Economy Class,2.0,2.0,1.0,2.0,1.0,1.81,2.0,no,1 month,False,2018-10-01,Taiwan
+China Airlines,9.0,True,A350-900,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-12-01,Taiwan
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,3.0,1.0,no,1 month,False,2019-02-01,Taiwan
+China Airlines,8.0,True,Boeing 777,Business,Business Class,5.0,4.0,4.0,4.0,3.0,4.0,4.0,yes,1 month,False,2019-04-01,Taiwan
+China Airlines,8.0,True,A350,Solo Leisure,Business Class,5.0,5.0,4.0,4.0,4.0,4.0,5.0,yes,1 month,False,2019-05-01,Taiwan
+China Airlines,6.0,False,Boeing 777,Business,Business Class,4.0,4.0,3.0,3.0,3.0,2.0,3.0,no,1 month,False,2019-07-01,Taiwan
+China Airlines,7.0,True,A350-900,Couple Leisure,Economy Class,4.0,3.0,3.0,3.0,3.0,1.81,4.0,yes,1 month,False,2019-08-01,Taiwan
+China Airlines,8.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,3.0,1.81,4.0,yes,1 month,True,2019-08-01,Taiwan
+China Airlines,2.0,True,A350-900,Couple Leisure,Economy Class,4.0,4.0,4.0,1.0,4.0,1.81,3.0,no,1 month,False,2019-10-01,Taiwan
+China Airlines,1.0,True,A350-900,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,5.0,3.0,5.0,yes,1 month,False,2019-11-01,Taiwan
+China Airlines,9.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,True,2019-12-01,Taiwan
+China Airlines,5.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,4.0,1.0,4.0,1.81,4.0,no,1 month,False,2020-01-01,Taiwan
+China Airlines,8.0,True,A350,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-10-01,Taiwan
+China Airlines,9.0,True,Others,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,4.0,4.0,5.0,yes,1 month,True,2023-01-01,Taiwan
+China Airlines,2.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,1.0,1.0,2.0,1.0,3.0,no,1 month,False,2023-02-01,Taiwan
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2023-03-01,Taiwan
+China Airlines,8.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,4.0,3.0,2.0,4.0,yes,1 month,False,2023-03-01,Taiwan
+China Airlines,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,3.0,4.0,5.0,3.0,1.81,4.0,yes,1 month,False,2023-04-01,Taiwan
+China Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,4.0,4.0,5.0,4.0,5.0,yes,1 month,False,2023-04-01,Taiwan
+China Airlines,1.0,True,A330-300,Solo Leisure,Economy Class,3.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,True,2023-06-01,Taiwan
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.0,3.0,1.0,2.0,1.0,no,1 month,False,2023-07-01,Taiwan
+China Airlines,8.0,True,A350-900,Solo Leisure,Economy Class,5.0,4.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2024-02-01,Taiwan
+China Airlines,9.0,False,Boeing 737-800,Couple Leisure,Business Class,4.0,5.0,5.0,4.0,4.0,4.0,4.0,yes,1 month,False,2024-04-01,Taiwan
+Germanwings,2.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,False,2015-06-01,Germany
+Germanwings,2.0,False,Unknown,Business,Economy Class,3.0,2.0,1.0,2.0,2.15,1.81,2.0,no,1 month,False,2015-08-01,Germany
+Germanwings,3.0,False,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,3.0,2.15,1.81,2.0,no,1 month,False,2015-10-01,Germany
+Korean Air,1.0,False,Unknown,Business,Business Class,3.0,5.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2023-06-01,Canada
+Hong Kong Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,3.0,3.0,1.0,2.0,1.0,1.0,no,1 month,True,2017-08-01,Canada
+Hong Kong Airlines,9.0,True,A350-900,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,1.81,5.0,yes,+3 months,False,2018-02-01,Canada
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2019-09-01,Canada
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,1.0,1.0,1.0,no,1 month,True,2019-12-01,Canada
+Hong Kong Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,2.0,3.0,1.0,2.15,1.81,2.0,no,1 month,False,2020-01-01,Canada
+China Airlines,6.0,True,Others,Business,Business Class,4.0,4.0,3.0,2.0,4.0,1.81,3.0,no,+3 months,False,2018-12-01,Canada
+China Airlines,9.0,True,A350,Couple Leisure,Economy Class,4.0,5.0,5.0,4.0,5.0,1.81,4.0,yes,1 month,False,2020-01-01,Canada
+China Airlines,1.0,True,Unknown,Family Leisure,Premium Economy,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-12-01,Canada
+China Airlines,2.0,False,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,1.81,2.0,no,1 month,False,2023-08-01,Canada
+China Airlines,8.0,True,A350-900,Family Leisure,Premium Economy,5.0,5.0,3.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-09-01,Canada
+Bulgaria Air,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,+3 months,False,2018-02-01,Lebanon
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.56,1.0,2.15,1.81,3.0,no,2-3 months,True,2018-10-01,Lebanon
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,2.0,4.0,3.0,1.0,2.0,2.0,2.0,no,1 month,False,2023-12-01,Australia
+Virgin Australia,2.0,False,Boeing 737-800,Business,Economy Class,3.0,2.0,1.0,4.0,1.0,1.0,2.0,no,1 month,False,2024-02-01,Australia
+Virgin Australia,8.0,True,Others,Family Leisure,Economy Class,4.0,5.0,3.0,5.0,4.0,4.0,4.0,yes,1 month,False,2024-04-01,Australia
+Tigerair,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2015-09-01,Australia
+Tigerair,4.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,2.56,2.0,2.15,1.81,1.0,no,1 month,False,2018-04-01,Australia
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-04-01,Australia
+Tigerair,2.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-06-01,Australia
+SilkAir,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,3.0,3.0,1.0,1.0,1.0,1.0,no,1 month,False,2019-12-01,Australia
+Royal Brunei Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-11-01,Australia
+QantasLink,6.0,False,Others,Business,Economy Class,1.0,4.0,4.0,3.0,1.0,1.81,1.0,yes,1 month,True,2015-07-01,Australia
+QantasLink,7.0,False,Others,Couple Leisure,Economy Class,3.0,4.0,3.0,3.0,2.15,1.81,3.0,yes,1 month,False,2017-03-01,Australia
+QantasLink,1.0,False,Others,Couple Leisure,Economy Class,2.0,4.0,1.0,2.0,2.15,1.81,1.0,no,1 month,False,2017-04-01,Australia
+QantasLink,9.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2017-06-01,Australia
+QantasLink,8.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,True,2017-10-01,Australia
+QantasLink,3.0,True,Others,Solo Leisure,Economy Class,5.0,1.0,1.0,3.0,2.15,1.81,1.0,no,1 month,True,2017-12-01,Australia
+QantasLink,8.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2018-11-01,Australia
+QantasLink,1.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,1.0,4.0,2.15,1.81,1.0,no,1 month,False,2022-09-01,Australia
+QantasLink,1.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,True,2022-10-01,Australia
+Korean Air,4.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,3.0,3.0,2.0,1.81,2.0,no,+3 months,False,2019-10-01,Australia
+Korean Air,9.0,False,Others,Family Leisure,Economy Class,4.0,4.0,4.0,4.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,Australia
+China Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2018-11-01,Australia
+China Airlines,9.0,True,A350-900,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,4.0,yes,1 month,True,2019-07-01,Australia
+China Airlines,7.0,True,Unknown,Family Leisure,Economy Class,2.0,4.0,3.0,3.0,4.0,2.0,4.0,yes,+3 months,True,2019-08-01,Australia
+China Airlines,8.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2023-09-01,Australia
+China Airlines,1.0,True,A350-900,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,4.0,5.0,5.0,yes,1 month,False,2024-03-01,Australia
+SilkAir,5.0,True,Boeing 737,Business,Economy Class,3.0,3.0,3.0,5.0,2.15,1.81,3.0,no,1 month,False,2018-02-01,Sri Lanka
+SilkAir,3.0,True,Boeing 737,Business,Economy Class,3.0,2.0,2.0,5.0,1.0,1.81,2.0,no,1 month,False,2018-08-01,Sri Lanka
+China Airlines,1.0,True,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,2-3 months,False,2019-01-01,Austria
+China Airlines,9.0,True,A350-900,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,Austria
+Bulgaria Air,9.0,False,A319,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2015-08-01,Austria
+Bulgaria Air,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-10-01,Austria
+SilkAir,9.0,False,Boeing 737,Solo Leisure,Economy Class,5.0,3.0,4.0,3.0,4.0,1.81,4.0,yes,1 month,False,2017-02-01,Cambodia
+Korean Air,1.0,False,Unknown,Family Leisure,Economy Class,3.0,1.0,2.0,1.0,1.0,1.81,1.0,no,1 month,False,2021-06-01,Cambodia
+Korean Air,4.0,False,Others,Business,Business Class,4.0,1.0,1.0,4.0,2.0,1.81,2.0,no,1 month,False,2022-03-01,Cambodia
+Bangkok Airways,6.0,True,Unknown,Couple Leisure,Business Class,3.0,2.0,1.0,3.0,2.15,1.81,3.0,yes,1 month,False,2018-02-01,Cambodia
+Bangkok Airways,9.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-04-01,Cambodia
+Bangkok Airways,2.0,True,Unknown,Solo Leisure,Economy Class,3.0,4.0,1.0,5.0,1.0,1.81,2.0,yes,1 month,True,2019-09-01,Cambodia
+Korean Air,1.0,True,Unknown,Family Leisure,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2019-02-01,Japan
+Thomson Airways,1.0,False,Boeing 787-9,Family Leisure,Economy Class,4.0,5.0,5.0,4.0,4.0,1.81,5.0,yes,1 month,False,2017-09-01,United States
+SilkAir,9.0,False,Others,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2015-06-01,Philippines
+SilkAir,4.0,True,Boeing 737-800,Solo Leisure,Economy Class,2.0,4.0,4.0,1.0,2.15,1.81,4.0,no,1 month,False,2018-10-01,Philippines
+Bulgaria Air,2.0,False,Unknown,Solo Leisure,Economy Class,3.0,4.0,4.0,1.0,2.15,1.81,1.0,no,1 month,False,2015-08-01,Bulgaria
+Bulgaria Air,9.0,False,A320,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2015-10-01,Bulgaria
+Bulgaria Air,2.0,False,Unknown,Business,Business Class,3.0,1.0,1.0,2.0,1.0,1.0,3.0,no,1 month,False,2017-06-01,Bulgaria
+Bulgaria Air,3.0,False,E190,Business,Economy Class,2.0,4.0,2.0,2.0,1.0,1.81,3.0,no,1 month,False,2017-06-01,Bulgaria
+Bulgaria Air,1.0,False,Unknown,Business,Economy Class,3.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-06-01,Bulgaria
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2017-07-01,Bulgaria
+Bulgaria Air,8.0,True,E190,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,2-3 months,False,2018-01-01,Bulgaria
+Bulgaria Air,9.0,True,A320,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,2.15,1.81,5.0,yes,2-3 months,False,2018-07-01,Bulgaria
+Bulgaria Air,8.0,False,A320,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,5.0,yes,1 month,False,2018-11-01,Bulgaria
+Bulgaria Air,8.0,True,Boeing 737,Business,Economy Class,2.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2019-03-01,Bulgaria
+Bulgaria Air,7.0,True,E190,Business,Economy Class,3.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,+3 months,False,2019-06-01,Bulgaria
+Bulgaria Air,1.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2019-07-01,Bulgaria
+Bulgaria Air,3.0,True,Others,Solo Leisure,Economy Class,1.0,3.0,2.0,1.0,2.15,1.81,5.0,no,1 month,False,2019-09-01,Bulgaria
+Bulgaria Air,9.0,True,A319,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,1.0,1.0,4.0,yes,1 month,True,2019-09-01,Bulgaria
+Bulgaria Air,8.0,True,Boeing 737,Solo Leisure,Economy Class,5.0,5.0,4.0,4.0,2.15,1.81,5.0,yes,1 month,True,2019-10-01,Bulgaria
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-11-01,Bulgaria
+Bulgaria Air,8.0,True,Others,Business,Business Class,4.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,False,2020-02-01,Bulgaria
+Bulgaria Air,5.0,True,Others,Business,Economy Class,1.0,1.0,4.0,1.0,2.0,1.81,2.0,no,1 month,False,2020-09-01,Bulgaria
+Bulgaria Air,1.0,True,Unknown,Couple Leisure,Economy Class,3.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2021-03-01,Bulgaria
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2021-05-01,Bulgaria
+Bulgaria Air,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,3.0,1.0,1.0,1.0,3.0,no,+3 months,False,2022-01-01,Bulgaria
+Bulgaria Air,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,True,2022-09-01,Bulgaria
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,True,2022-10-01,Bulgaria
+Korean Air,7.0,True,A330-200,Business,Business Class,4.0,4.0,5.0,3.0,2.0,1.81,4.0,yes,+3 months,False,2020-02-01,Netherlands
+Korean Air,2.0,True,Unknown,Business,Business Class,2.0,3.0,3.0,1.0,1.0,1.0,2.0,no,1 month,False,2023-03-01,Netherlands
+China Airlines,7.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,5.0,3.0,5.0,3.0,4.0,yes,+3 months,False,2019-02-01,Netherlands
+Bulgaria Air,3.0,True,A320,Business,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,3.0,no,1 month,True,2018-04-01,Netherlands
+Bulgaria Air,9.0,True,E190,Solo Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,5.0,yes,2-3 months,False,2018-01-01,Italy
+Korean Air,6.0,True,Others,Solo Leisure,Business Class,4.0,3.0,3.0,4.0,2.0,1.81,3.0,no,1 month,False,2018-08-01,New Zealand
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2022-12-01,New Zealand
+Korean Air,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.0,5.0,yes,1 month,False,2023-12-01,New Zealand
+Hong Kong Airlines,3.0,True,A330,Family Leisure,Economy Class,3.0,3.0,2.0,3.0,4.0,1.81,3.0,no,1 month,False,2017-11-01,New Zealand
+Hong Kong Airlines,2.0,True,Unknown,Solo Leisure,Economy Class,3.0,2.0,2.0,2.0,3.0,3.0,1.0,no,1 month,False,2017-12-01,New Zealand
+Hong Kong Airlines,6.0,False,A330-200,Solo Leisure,Economy Class,4.0,5.0,5.0,1.0,3.0,1.0,1.0,yes,+3 months,True,2018-05-01,New Zealand
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,2.0,1.0,no,1 month,False,2019-03-01,New Zealand
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2023-11-01,New Zealand
+China Airlines,8.0,True,A350-900,Solo Leisure,Business Class,5.0,4.0,4.0,4.0,4.0,1.81,5.0,yes,1 month,False,2019-05-01,New Zealand
+China Airlines,6.0,False,A350-900,Couple Leisure,Economy Class,4.0,3.0,1.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-10-01,New Zealand
+China Airlines,9.0,True,A350,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,4.0,1.81,5.0,yes,1 month,False,2022-12-01,New Zealand
+SilkAir,8.0,True,A320-200,Family Leisure,Economy Class,4.0,5.0,5.0,3.0,4.0,1.81,4.0,yes,2-3 months,False,2020-03-01,Indonesia
+Bangkok Airways,2.0,True,A320,Couple Leisure,Economy Class,2.0,3.0,3.0,1.0,2.15,1.81,1.0,no,1 month,False,2018-02-01,Burma
+Bangkok Airways,4.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,3.0,3.0,2.15,1.81,4.0,no,1 month,False,2018-06-01,Burma
+Bangkok Airways,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,4.0,yes,1 month,False,2019-02-01,Burma
+Bangkok Airways,9.0,True,Others,Couple Leisure,Economy Class,3.0,5.0,4.0,4.0,2.15,1.81,1.0,yes,2-3 months,True,2019-03-01,Burma
+Bangkok Airways,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,1.0,3.0,3.0,4.0,yes,1 month,True,2020-03-01,Burma
+Bangkok Airways,1.0,False,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,False,2020-03-01,Burma
+Virgin Australia,1.0,False,Unknown,Family Leisure,Economy Class,2.0,3.0,1.0,1.0,1.0,1.0,1.0,no,2-3 months,True,2023-11-01,Australia
+Virgin Australia,1.0,False,Unknown,Couple Leisure,Economy Class,2.0,4.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-11-01,Australia
+Virgin Australia,3.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-11-01,Australia
+Virgin Australia,6.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,True,2024-03-01,Australia
+Tigerair,3.0,True,Unknown,Solo Leisure,Economy Class,3.0,1.0,1.0,1.0,2.15,1.81,4.0,no,1 month,False,2019-11-01,Australia
+QantasLink,9.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2017-01-01,Australia
+QantasLink,7.0,False,Others,Couple Leisure,Economy Class,3.0,4.0,3.0,4.0,4.0,1.81,4.0,yes,1 month,False,2017-02-01,Australia
+QantasLink,3.0,False,Others,Couple Leisure,Economy Class,2.0,3.0,3.0,3.0,2.15,1.81,1.0,no,1 month,False,2017-04-01,Australia
+QantasLink,8.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,True,2018-11-01,Australia
+QantasLink,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2022-04-01,Australia
+Germanwings,7.0,False,A319,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,2-3 months,False,2015-10-01,Ireland
+Bulgaria Air,1.0,True,Unknown,Business,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2019-06-01,Belgium
+SilkAir,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,5.0,yes,1 month,True,2020-04-01,Japan
+SilkAir,5.0,False,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,3.0,2.15,1.81,2.0,no,1 month,False,2017-06-01,Thailand
+Bangkok Airways,8.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,False,2017-12-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.56,1.0,2.15,1.81,1.0,no,2-3 months,False,2018-06-01,Thailand
+Bangkok Airways,3.0,True,Unknown,Solo Leisure,Economy Class,4.0,3.0,2.0,4.0,2.15,1.81,2.0,no,2-3 months,True,2018-11-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-03-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-03-01,Thailand
+Bangkok Airways,8.0,True,A319,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,1 month,False,2019-03-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2019-08-01,Thailand
+Bangkok Airways,8.0,True,A320,Solo Leisure,Economy Class,3.0,4.0,4.0,1.0,2.15,1.81,4.0,yes,1 month,False,2019-10-01,Thailand
+Bangkok Airways,1.0,True,A319,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-11-01,Thailand
+Bangkok Airways,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-10-01,Thailand
+Bangkok Airways,4.0,True,Others,Couple Leisure,Economy Class,2.0,3.0,3.0,2.0,2.15,1.81,2.0,no,1 month,False,2023-01-01,Thailand
+Bangkok Airways,8.0,True,A319,Solo Leisure,Economy Class,4.0,4.0,4.0,3.0,1.0,1.81,5.0,yes,1 month,False,2024-04-01,Thailand
+Germanwings,5.0,False,Unknown,Couple Leisure,Economy Class,3.0,3.0,1.0,3.0,2.15,1.81,5.0,no,1 month,False,2015-08-01,Germany
+Bangkok Airways,2.0,True,Unknown,Couple Leisure,Premium Economy,2.0,2.0,2.0,2.0,2.15,1.81,1.0,no,1 month,False,2018-02-01,Laos
+Bangkok Airways,8.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,2.0,2.15,1.81,4.0,yes,1 month,False,2019-11-01,Laos
+Thomson Airways,5.0,False,Boeing 787,Couple Leisure,Premium Economy,4.0,2.0,4.0,3.0,2.0,1.81,3.0,no,1 month,False,2015-11-01,Mexico
+Tigerair,1.0,False,A320,Family Leisure,Economy Class,3.0,3.0,2.56,5.0,2.15,1.81,4.0,yes,1 month,False,2015-11-01,Malaysia
+SilkAir,2.0,True,Boeing 737-800,Business,Economy Class,2.0,3.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2018-04-01,Nepal
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-08-01,Nepal
+Tigerair,1.0,False,Unknown,Couple Leisure,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2015-10-01,Indonesia
+Korean Air,1.0,True,A330-300,Solo Leisure,Economy Class,1.0,1.0,1.0,2.0,1.0,1.81,2.0,no,1 month,False,2018-09-01,Indonesia
+Korean Air,1.0,False,A380,Couple Leisure,Economy Class,3.0,5.0,5.0,3.0,4.0,1.81,5.0,yes,2-3 months,False,2020-01-01,Indonesia
+China Airlines,9.0,True,Others,Couple Leisure,Economy Class,5.0,4.0,3.0,5.0,4.0,4.0,5.0,yes,1 month,False,2019-08-01,Indonesia
+Thomson Airways,6.0,False,Others,Family Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.81,4.0,yes,1 month,True,2017-04-01,United States
+Thomson Airways,1.0,False,Boeing 737-800,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,True,2017-06-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,3.0,1.0,2.56,1.0,5.0,1.81,2.0,no,1 month,False,2017-07-01,United States
+Thomson Airways,1.0,True,A320,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-07-01,United States
+Korean Air,8.0,True,Others,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,Germany
+China Southern Airlines,9.0,True,Others,Business,Business Class,4.0,5.0,4.0,4.0,3.0,3.0,5.0,yes,1 month,False,2024-02-01,Germany
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-07-01,Germany
+China Airlines,9.0,True,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,3.0,1.81,5.0,yes,1 month,True,2019-08-01,Germany
+China Airlines,9.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2020-02-01,Germany
+China Airlines,8.0,True,Boeing 777,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,5.0,4.0,yes,1 month,False,2022-09-01,Germany
+China Airlines,8.0,True,Others,Family Leisure,Economy Class,3.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2023-04-01,Germany
+China Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,+3 months,True,2023-11-01,Germany
+China Airlines,8.0,True,Boeing 777-300ER,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes,1 month,False,2024-02-01,Germany
+Bulgaria Air,1.0,False,Unknown,Business,Business Class,2.0,2.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2020-02-01,Germany
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,False,2020-05-01,Germany
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,3.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-10-01,Japan
+China Southern Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,True,2023-06-01,China
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United Kingdom
+Germanwings,2.0,False,Unknown,Family Leisure,Economy Class,2.0,2.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2015-09-01,Germany
+Germanwings,7.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,1.0,4.0,1.0,1.0,4.0,yes,1 month,False,2015-09-01,Germany
+Germanwings,7.0,True,A319,Couple Leisure,Economy Class,4.0,3.0,2.56,3.0,1.0,1.81,5.0,yes,1 month,True,2019-07-01,Germany
+Thomson Airways,9.0,False,Boeing 787,Couple Leisure,Premium Economy,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes,1 month,False,2015-11-01,United Kingdom
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,3.0,2.15,1.81,1.0,no,2-3 months,False,2017-02-01,United Kingdom
+Korean Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-12-01,Russia
+Virgin Australia,2.0,True,Unknown,Business,Economy Class,3.0,4.0,3.0,1.0,2.15,1.81,2.0,no,2-3 months,False,2024-02-01,Australia
+Virgin Australia,9.0,True,Others,Solo Leisure,Business Class,4.0,5.0,4.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-04-01,Australia
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2019-07-01,Australia
+QantasLink,1.0,False,Unknown,Solo Leisure,Premium Economy,1.0,2.0,1.0,3.0,1.0,1.0,1.0,no,1 month,False,2023-12-01,Australia
+Hong Kong Airlines,3.0,False,Unknown,Business,Business Class,4.0,5.0,2.0,1.0,3.0,1.81,3.0,yes,1 month,True,2017-10-01,Australia
+Bulgaria Air,4.0,True,A320,Solo Leisure,Economy Class,1.0,3.0,3.0,5.0,2.15,1.81,5.0,no,1 month,False,2019-09-01,Portugal
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United Kingdom
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United Kingdom
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United Kingdom
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United Kingdom
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United Kingdom
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United Kingdom
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United Kingdom
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United Kingdom
+Germanwings,8.0,False,A320,Family Leisure,Economy Class,4.0,5.0,2.0,3.0,2.15,1.81,4.0,yes,+3 months,False,2015-10-01,Germany
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,4.0,3.0,4.0,1.81,2.0,no,2-3 months,False,2015-11-01,South Africa
+QantasLink,3.0,False,Unknown,Solo Leisure,Business Class,3.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,South Africa
+SilkAir,3.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,2.0,no,2-3 months,False,2019-05-01,Indonesia
+Dragonair,8.0,False,A320-200,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,3.0,4.0,yes,1 month,True,2017-02-01,Malaysia
+Korean Air,8.0,True,Boeing 787-9,Solo Leisure,Economy Class,5.0,5.0,4.0,3.0,3.0,1.81,3.0,yes,1 month,False,2024-01-01,Venezuela
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,True,2019-09-01,"Korea, South"
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,3.0,4.0,1.81,5.0,yes,1 month,False,2015-08-01,Canada
+Royal Brunei Airlines,7.0,False,Boeing 787-8,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,Canada
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,+3 months,False,2015-12-01,Canada
+Royal Brunei Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.0,5.0,yes,1 month,False,2018-02-01,Canada
+Royal Brunei Airlines,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,1.0,4.0,1.81,5.0,no,1 month,False,2018-04-01,Canada
+Royal Brunei Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,False,2018-11-01,Canada
+Royal Brunei Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,5.0,5.0,5.0,yes,1 month,False,2018-12-01,Canada
+Royal Brunei Airlines,1.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2018-12-01,Canada
+Royal Brunei Airlines,5.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,2.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-04-01,Canada
+Royal Brunei Airlines,1.0,False,Boeing 787,Family Leisure,Economy Class,4.0,5.0,5.0,1.0,5.0,5.0,1.0,no,1 month,False,2019-10-01,Canada
+Royal Brunei Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,1.0,4.0,1.0,2.0,1.0,1.81,1.0,no,2-3 months,True,2020-02-01,Canada
+Royal Brunei Airlines,2.0,True,Others,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.81,1.0,no,1 month,False,2023-01-01,Canada
+Royal Brunei Airlines,9.0,False,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-08-01,Canada
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-09-01,Canada
+Korean Air,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,False,2019-11-01,Canada
+Korean Air,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,4.0,5.0,4.0,4.0,1.81,4.0,yes,1 month,False,2023-01-01,Canada
+Germanwings,2.0,False,Unknown,Business,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,1.0,no,1 month,True,2015-11-01,Canada
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,+3 months,True,2023-09-01,Canada
+China Southern Airlines,9.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-09-01,Canada
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,First Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,Canada
+China Southern Airlines,1.0,True,Boeing 787,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-02-01,Canada
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,4.0,1.0,1.0,1.0,1.81,2.0,no,1 month,True,2024-03-01,Canada
+China Southern Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2024-03-01,Canada
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,1.0,2.0,1.0,3.0,3.0,no,1 month,False,2020-03-01,Canada
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2021-03-01,Canada
+SilkAir,7.0,True,A319,Solo Leisure,Economy Class,3.0,3.0,3.0,3.0,3.0,2.0,2.0,yes,1 month,False,2018-03-01,Indonesia
+QantasLink,1.0,False,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2019-12-01,Australia
+QantasLink,2.0,True,Others,Couple Leisure,Economy Class,5.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,True,2021-04-01,Australia
+QantasLink,8.0,True,E190,Solo Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-03-01,Australia
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2015-07-01,Bulgaria
+Bulgaria Air,8.0,False,E190,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,+3 months,False,2017-01-01,Bulgaria
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2019-08-01,Bulgaria
+Korean Air,7.0,True,A330-300,Solo Leisure,Business Class,4.0,3.0,2.0,5.0,1.0,1.81,3.0,yes,1 month,False,2018-11-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-02-01,United States
+Korean Air,7.0,True,Others,Solo Leisure,Economy Class,4.0,3.0,2.0,4.0,3.0,1.81,3.0,yes,2-3 months,False,2019-09-01,United States
+Korean Air,9.0,True,Others,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,+3 months,False,2021-05-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,1.0,2.0,1.0,1.0,no,1 month,True,2023-11-01,United States
+Royal Brunei Airlines,9.0,True,Others,Family Leisure,Economy Class,5.0,5.0,5.0,4.0,2.0,1.81,4.0,yes,1 month,False,2023-07-01,Malaysia
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,4.0,3.0,4.0,1.81,2.0,no,2-3 months,False,2015-11-01,United Kingdom
+QantasLink,3.0,False,Unknown,Solo Leisure,Business Class,3.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,United Kingdom
+Tigerair,2.0,False,Unknown,Couple Leisure,Economy Class,3.0,4.0,2.56,1.0,2.15,1.81,2.0,no,1 month,True,2015-10-01,India
+Hong Kong Airlines,4.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,2.0,2.15,1.81,4.0,no,1 month,False,2018-05-01,India
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2017-06-01,Cuba
+Thomson Airways,3.0,False,Unknown,Couple Leisure,Economy Class,1.0,4.0,2.56,5.0,2.0,1.81,3.0,no,1 month,False,2015-11-01,Côte d’Ivoire
+Thomson Airways,8.0,False,Boeing 787,Solo Leisure,Economy Class,3.0,5.0,5.0,4.0,5.0,1.81,4.0,yes,1 month,False,2015-11-01,Côte d’Ivoire
+Thomson Airways,7.0,False,Boeing 787,Couple Leisure,Premium Economy,3.0,3.0,3.0,3.0,4.0,1.81,3.0,yes,1 month,True,2016-01-01,Côte d’Ivoire
+Thomson Airways,5.0,False,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,3.0,2.0,1.81,2.0,yes,1 month,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,7.0,False,Boeing 787,Couple Leisure,Premium Economy,3.0,4.0,2.0,3.0,2.0,1.81,2.0,yes,1 month,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,5.0,False,Others,Family Leisure,Economy Class,1.0,5.0,2.56,4.0,2.15,1.81,4.0,yes,+3 months,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Premium Economy,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,4.0,False,Boeing 787,Family Leisure,Economy Class,4.0,3.0,2.0,3.0,1.0,1.0,2.0,no,1 month,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,5.0,False,Boeing 757,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,3.0,no,1 month,False,2016-02-01,Côte d’Ivoire
+Thomson Airways,7.0,False,Boeing 787,Family Leisure,Economy Class,3.0,3.0,4.0,5.0,3.0,1.81,4.0,yes,1 month,False,2016-03-01,Côte d’Ivoire
+Thomson Airways,7.0,False,Others,Couple Leisure,Economy Class,2.0,3.0,4.0,3.0,3.0,1.81,2.0,yes,1 month,False,2016-04-01,Côte d’Ivoire
+Thomson Airways,7.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,3.0,1.81,4.0,yes,1 month,False,2016-04-01,Côte d’Ivoire
+Thomson Airways,8.0,False,Boeing 737-800,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2016-05-01,Côte d’Ivoire
+Thomson Airways,8.0,False,Boeing 737-800,Couple Leisure,Economy Class,3.0,4.0,3.0,3.0,2.15,1.81,3.0,yes,1 month,False,2016-05-01,Côte d’Ivoire
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,3.0,1.0,3.0,4.0,1.0,1.81,2.0,no,1 month,True,2016-06-01,Côte d’Ivoire
+Thomson Airways,3.0,False,Others,Solo Leisure,Economy Class,1.0,1.0,2.56,3.0,2.15,1.81,3.0,no,1 month,False,2016-10-01,Côte d’Ivoire
+Thomson Airways,4.0,False,Unknown,Couple Leisure,Economy Class,2.0,4.0,1.0,4.0,3.0,1.81,2.0,yes,1 month,False,2016-12-01,Côte d’Ivoire
+SilkAir,5.0,True,Boeing 737,Business,Economy Class,3.0,3.0,3.0,5.0,2.15,1.81,3.0,no,1 month,False,2018-02-01,Brazil
+SilkAir,3.0,True,Boeing 737,Business,Economy Class,3.0,2.0,2.0,5.0,1.0,1.81,2.0,no,1 month,False,2018-08-01,Brazil
+Virgin Australia,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.0,2.0,no,1 month,False,2023-11-01,Australia
+Virgin Australia,2.0,False,Boeing 737-800,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,2.15,1.81,3.0,no,1 month,True,2024-03-01,Australia
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-11-01,Australia
+Tigerair,1.0,False,Boeing 737,Solo Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2019-09-01,Australia
+QantasLink,8.0,False,Others,Solo Leisure,Business Class,4.0,5.0,5.0,5.0,2.15,1.81,3.0,yes,1 month,False,2017-09-01,Australia
+QantasLink,8.0,True,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-04-01,Australia
+Korean Air,1.0,False,Unknown,Business,Business Class,3.0,5.0,4.0,5.0,4.0,4.0,4.0,yes,1 month,False,2023-06-01,United States
+Hong Kong Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,3.0,3.0,1.0,2.0,1.0,1.0,no,1 month,True,2017-08-01,United States
+Hong Kong Airlines,9.0,True,A350-900,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,4.0,1.81,5.0,yes,+3 months,False,2018-02-01,United States
+Hong Kong Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2019-09-01,United States
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,1.0,1.0,1.0,no,1 month,True,2019-12-01,United States
+Hong Kong Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,2.0,3.0,1.0,2.15,1.81,2.0,no,1 month,False,2020-01-01,United States
+China Airlines,6.0,True,Others,Business,Business Class,4.0,4.0,3.0,2.0,4.0,1.81,3.0,no,+3 months,False,2018-12-01,United States
+China Airlines,9.0,True,A350,Couple Leisure,Economy Class,4.0,5.0,5.0,4.0,5.0,1.81,4.0,yes,1 month,False,2020-01-01,United States
+China Airlines,1.0,True,Unknown,Family Leisure,Premium Economy,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-12-01,United States
+China Airlines,2.0,False,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,1.81,2.0,no,1 month,False,2023-08-01,United States
+China Airlines,8.0,True,A350-900,Family Leisure,Premium Economy,5.0,5.0,3.0,5.0,5.0,1.81,5.0,yes,1 month,False,2023-09-01,United States
+Virgin Australia,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,4.0,4.0,1.0,4.0,4.0,1.0,no,+3 months,True,2023-12-01,Australia
+QantasLink,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-01-01,Australia
+QantasLink,9.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,3.0,4.0,4.0,1.81,3.0,yes,1 month,False,2019-04-01,Australia
+QantasLink,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2019-04-01,Australia
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,4.0,3.0,4.0,1.81,2.0,no,2-3 months,False,2015-11-01,Australia
+QantasLink,3.0,False,Unknown,Solo Leisure,Business Class,3.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,Australia
+SilkAir,4.0,False,Unknown,Couple Leisure,Economy Class,2.0,1.0,3.0,3.0,2.15,1.81,2.0,no,1 month,False,2017-08-01,Cambodia
+SilkAir,7.0,True,Unknown,Business,Business Class,4.0,4.0,4.0,4.0,4.0,1.81,4.0,yes,2-3 months,False,2018-03-01,Cambodia
+SilkAir,2.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,3.0,4.0,1.0,1.81,2.0,no,1 month,False,2018-03-01,Cambodia
+Bangkok Airways,5.0,True,Unknown,Solo Leisure,Economy Class,3.0,5.0,3.0,3.0,3.0,1.81,3.0,yes,1 month,False,2018-03-01,Cambodia
+Bangkok Airways,1.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-12-01,Cambodia
+Tigerair,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,3.0,1.0,1.0,1.0,1.81,2.0,no,1 month,False,2018-04-01,Australia
+SilkAir,3.0,False,Boeing 737,Solo Leisure,Economy Class,1.0,3.0,4.0,5.0,2.15,1.81,3.0,yes,2-3 months,False,2017-05-01,Australia
+SilkAir,4.0,True,Boeing 737,Solo Leisure,Business Class,1.0,3.0,3.0,3.0,2.0,1.0,2.0,no,1 month,False,2018-01-01,Australia
+QantasLink,9.0,True,Others,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-05-01,Australia
+QantasLink,8.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2021-07-01,Australia
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,United States
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,2.0,1.0,1.0,1.0,2.0,1.0,3.0,no,1 month,False,2018-10-01,Chile
+Korean Air,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-11-01,Chile
+Korean Air,2.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,4.0,1.0,2.0,no,1 month,False,2019-02-01,Chile
+Korean Air,3.0,True,A380,Solo Leisure,Economy Class,4.0,2.0,2.0,1.0,3.0,1.81,4.0,no,1 month,False,2019-09-01,Chile
+Korean Air,9.0,True,Boeing 777-300ER,Solo Leisure,Economy Class,5.0,5.0,5.0,4.0,3.0,1.81,4.0,yes,1 month,False,2023-01-01,Chile
+Korean Air,9.0,False,Others,Couple Leisure,Economy Class,3.0,5.0,3.0,3.0,3.0,1.81,4.0,yes,1 month,False,2024-01-01,Chile
+Korean Air,9.0,True,A380,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2024-02-01,Chile
+Hong Kong Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,2.0,1.0,3.0,1.81,1.0,no,1 month,True,2019-01-01,Chile
+Hong Kong Airlines,8.0,True,A350,Solo Leisure,Business Class,5.0,5.0,4.0,5.0,5.0,3.0,5.0,yes,1 month,False,2019-04-01,Chile
+Hong Kong Airlines,3.0,False,Others,Business,Business Class,3.0,2.0,2.0,3.0,2.15,1.0,2.0,no,1 month,False,2019-09-01,Chile
+China Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,2.0,1.0,no,1 month,False,2019-05-01,Chile
+China Airlines,3.0,False,Unknown,Family Leisure,Premium Economy,3.0,2.0,3.0,3.0,4.0,4.0,2.0,no,1 month,False,2019-09-01,Chile
+China Airlines,7.0,True,Others,Family Leisure,Economy Class,5.0,2.0,5.0,4.0,5.0,5.0,4.0,yes,1 month,False,2019-12-01,Chile
+China Airlines,2.0,False,Boeing 777,Solo Leisure,Economy Class,3.0,2.0,2.0,1.0,3.0,2.0,2.0,no,1 month,False,2023-03-01,Chile
+Hong Kong Airlines,3.0,True,Unknown,Family Leisure,Economy Class,2.0,2.87,2.56,3.0,2.15,1.81,1.0,no,1 month,False,2019-07-01,Japan
+Tigerair,1.0,False,Unknown,Family Leisure,Economy Class,4.0,4.0,1.0,5.0,1.0,1.81,1.0,yes,1 month,False,2017-06-01,Maldives
+Korean Air,3.0,True,Unknown,Couple Leisure,Economy Class,3.0,1.0,3.0,1.0,4.0,1.81,3.0,no,1 month,False,2018-10-01,Maldives
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,2-3 months,False,2023-05-01,Japan
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2017-06-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Mexico
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Mexico
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Mexico
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Mexico
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Mexico
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Mexico
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Mexico
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Mexico
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Mexico
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Mexico
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Mexico
+Virgin Australia,6.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,2.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-11-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-12-01,United States
+Virgin Australia,7.0,True,Others,Solo Leisure,Business Class,4.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-01-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2024-01-01,United States
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2024-02-01,United States
+Virgin Australia,5.0,True,Unknown,Family Leisure,Economy Class,3.0,3.0,2.56,2.0,2.15,1.81,2.0,no,1 month,True,2024-03-01,United States
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,False,2024-03-01,United States
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,United States
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,3.0,2.15,1.81,3.0,yes,1 month,False,2024-03-01,United States
+Virgin Australia,8.0,True,Others,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,2.15,1.81,3.0,yes,1 month,False,2024-04-01,United States
+Virgin Australia,8.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2024-04-01,United States
+Tigerair,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-05-01,United States
+Tigerair,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,3.0,3.0,1.0,3.0,2.0,no,1 month,True,2018-12-01,United States
+Tigerair,1.0,True,A320,Family Leisure,Economy Class,1.0,3.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-03-01,United States
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-03-01,United States
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,3.0,3.0,2.0,3.0,2.0,1.0,1.0,no,1 month,True,2019-07-01,United States
+Tigerair,2.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2019-10-01,United States
+Tigerair,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,2.0,2.15,1.81,2.0,no,1 month,True,2019-11-01,United States
+Tigerair,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2019-11-01,United States
+Royal Brunei Airlines,9.0,False,Others,Business,Business Class,4.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-06-01,United States
+Royal Brunei Airlines,7.0,False,Boeing 787,Solo Leisure,Business Class,3.0,5.0,2.0,3.0,2.0,1.81,4.0,yes,Unknown,False,2015-07-01,United States
+Royal Brunei Airlines,9.0,False,Boeing 787,Couple Leisure,Economy Class,5.0,4.0,4.0,5.0,4.0,3.0,5.0,yes,1 month,False,2015-08-01,United States
+Royal Brunei Airlines,9.0,False,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,United States
+Royal Brunei Airlines,9.0,False,Boeing 787,Couple Leisure,Business Class,4.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,United States
+Royal Brunei Airlines,6.0,False,Unknown,Couple Leisure,Economy Class,1.0,5.0,4.0,4.0,5.0,4.0,4.0,no,2-3 months,False,2017-07-01,United States
+Royal Brunei Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2017-07-01,United States
+Royal Brunei Airlines,9.0,False,Others,Solo Leisure,Business Class,5.0,5.0,5.0,4.0,2.0,1.81,5.0,yes,1 month,False,2017-07-01,United States
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,5.0,1.81,5.0,yes,1 month,False,2018-01-01,United States
+Royal Brunei Airlines,9.0,True,Unknown,Couple Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,2-3 months,True,2018-02-01,United States
+Royal Brunei Airlines,1.0,True,Boeing 787,Business,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,2-3 months,False,2018-03-01,United States
+Royal Brunei Airlines,9.0,True,Others,Couple Leisure,Business Class,5.0,5.0,5.0,5.0,4.0,4.0,5.0,yes,1 month,False,2018-06-01,United States
+Royal Brunei Airlines,5.0,True,Boeing 787,Family Leisure,Business Class,3.0,3.0,4.0,3.0,2.0,1.81,3.0,no,1 month,False,2018-09-01,United States
+Royal Brunei Airlines,1.0,False,Others,Family Leisure,Business Class,4.0,4.0,2.0,1.0,1.0,1.81,2.0,no,2-3 months,True,2019-02-01,United States
+Royal Brunei Airlines,9.0,False,Unknown,Business,Business Class,4.0,4.0,5.0,4.0,4.0,4.0,4.0,yes,+3 months,False,2019-06-01,United States
+Royal Brunei Airlines,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,United States
+Royal Brunei Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,3.0,3.0,2.0,1.81,2.0,no,+3 months,False,2020-01-01,United States
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.0,1.81,1.0,no,1 month,True,2020-01-01,United States
+Royal Brunei Airlines,5.0,False,Boeing 787,Family Leisure,Business Class,5.0,2.0,2.0,4.0,2.0,1.81,2.0,no,1 month,False,2020-01-01,United States
+Royal Brunei Airlines,2.0,False,Unknown,Family Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,2.0,2.0,no,2-3 months,True,2020-02-01,United States
+Royal Brunei Airlines,3.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,3.0,1.0,3.0,1.0,1.0,no,1 month,False,2022-09-01,United States
+Royal Brunei Airlines,7.0,False,Others,Couple Leisure,Economy Class,3.0,5.0,4.0,4.0,2.0,1.81,4.0,yes,1 month,False,2023-07-01,United States
+QantasLink,9.0,True,Others,Couple Leisure,Business Class,5.0,5.0,5.0,4.0,2.15,1.81,4.0,yes,1 month,False,2020-12-01,United States
+QantasLink,2.0,True,Unknown,Solo Leisure,Economy Class,2.0,5.0,5.0,1.0,2.15,1.81,2.0,no,1 month,True,2022-04-01,United States
+QantasLink,3.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,2.15,1.81,2.0,yes,1 month,False,2022-06-01,United States
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2022-02-01,United States
+China Southern Airlines,8.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,3.0,1.81,5.0,yes,1 month,False,2023-11-01,United States
+China Airlines,7.0,True,Others,Solo Leisure,Business Class,4.0,4.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,True,2019-07-01,United States
+China Airlines,9.0,True,A350,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,5.0,5.0,5.0,yes,1 month,True,2019-08-01,United States
+Bulgaria Air,5.0,False,Unknown,Solo Leisure,Economy Class,3.0,4.0,1.0,4.0,1.0,1.81,2.0,no,1 month,False,2020-03-01,Cyprus
+QantasLink,6.0,True,Others,Solo Leisure,Economy Class,3.0,3.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-02-01,Australia
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Philippines
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Philippines
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Philippines
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Philippines
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Philippines
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Philippines
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Philippines
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Philippines
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Philippines
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Philippines
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Philippines
+Tigerair,2.0,False,Unknown,Couple Leisure,Economy Class,1.0,2.0,1.0,1.0,1.0,1.0,2.0,no,1 month,True,2017-06-01,Thailand
+SilkAir,9.0,True,Boeing 737,Solo Leisure,Economy Class,4.0,5.0,5.0,4.0,3.0,1.81,5.0,yes,1 month,False,2018-10-01,Thailand
+Korean Air,2.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,Thailand
+China Southern Airlines,2.0,False,Unknown,Family Leisure,Economy Class,3.0,3.0,4.0,1.0,4.0,2.0,4.0,no,1 month,False,2023-09-01,Thailand
+Bangkok Airways,8.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2018-11-01,Thailand
+Bangkok Airways,1.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-01-01,Thailand
+Bangkok Airways,1.0,False,A320,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-02-01,Thailand
+Bangkok Airways,9.0,True,Others,Solo Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2023-08-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2024-03-01,Thailand
+Germanwings,7.0,False,A319,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,2-3 months,False,2015-10-01,United States
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-12-01,Thailand
+Bangkok Airways,2.0,True,Others,Solo Leisure,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,2.0,no,1 month,False,2019-03-01,Vietnam
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2020-03-01,Vietnam
+Bangkok Airways,8.0,True,A319,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2018-12-01,Thailand
+Bangkok Airways,7.0,True,A319,Couple Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,5.0,yes,1 month,False,2019-03-01,Thailand
+Bangkok Airways,1.0,True,A319,Business,Business Class,2.0,3.0,3.0,3.0,2.15,1.81,1.0,no,1 month,False,2020-01-01,Thailand
+Bangkok Airways,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2022-01-01,Thailand
+Bangkok Airways,9.0,True,A319,Couple Leisure,Business Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2022-08-01,Thailand
+Bangkok Airways,3.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-02-01,Thailand
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United Kingdom
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United Kingdom
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Argentina
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Argentina
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Argentina
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Argentina
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Argentina
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Argentina
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Argentina
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Argentina
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Argentina
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Argentina
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Argentina
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United States
+Germanwings,2.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,False,2015-06-01,United States
+Germanwings,2.0,False,Unknown,Business,Economy Class,3.0,2.0,1.0,2.0,2.15,1.81,2.0,no,1 month,False,2015-08-01,United States
+Germanwings,3.0,False,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,3.0,2.15,1.81,2.0,no,1 month,False,2015-10-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Philippines
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Philippines
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Philippines
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Philippines
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Philippines
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Philippines
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Philippines
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Philippines
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Philippines
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Philippines
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Philippines
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United States
+Royal Brunei Airlines,8.0,True,A320,Solo Leisure,Economy Class,4.0,3.0,4.0,4.0,4.0,1.81,4.0,yes,1 month,False,2019-09-01,Brunei
+Royal Brunei Airlines,3.0,True,Others,Business,Economy Class,2.0,2.0,2.0,4.0,1.0,1.81,2.0,no,1 month,False,2020-03-01,Brunei
+Germanwings,7.0,False,A319,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,2-3 months,False,2015-10-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Thomson Airways,2.0,False,Boeing 737,Couple Leisure,Economy Class,3.0,1.0,3.0,4.0,2.15,1.81,3.0,no,1 month,True,2017-06-01,Croatia
+China Southern Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,3.0,no,1 month,False,2023-11-01,United States
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2024-01-01,United States
+Bulgaria Air,1.0,False,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,2.0,no,1 month,False,2015-10-01,United States
+QantasLink,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2017-11-01,Australia
+QantasLink,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2019-01-01,Australia
+QantasLink,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,3.0,2.56,2.0,2.15,1.81,1.0,no,+3 months,False,2021-12-01,Australia
+China Southern Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,3.0,no,1 month,False,2023-11-01,United States
+China Southern Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2024-01-01,United States
+Bulgaria Air,1.0,False,Unknown,Family Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,2.0,no,1 month,False,2015-10-01,United States
+Bangkok Airways,3.0,True,A320,Solo Leisure,Economy Class,4.0,4.0,4.0,4.0,1.0,1.0,5.0,no,1 month,False,2017-12-01,Thailand
+Bangkok Airways,9.0,True,A320,Family Leisure,Business Class,4.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-12-01,Thailand
+Bangkok Airways,1.0,False,Others,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,1.0,1.81,5.0,yes,1 month,False,2019-04-01,Thailand
+Bangkok Airways,9.0,True,A320,Couple Leisure,Economy Class,4.0,5.0,5.0,4.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Thailand
+Bangkok Airways,9.0,True,A320,Couple Leisure,Economy Class,5.0,5.0,4.0,4.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Thailand
+Bangkok Airways,9.0,False,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2020-04-01,Thailand
+Bangkok Airways,2.0,True,A319,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,2.0,no,1 month,False,2023-11-01,Thailand
+Virgin Australia,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.0,2.0,no,1 month,False,2023-11-01,United States
+Virgin Australia,2.0,False,Boeing 737-800,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,2.15,1.81,3.0,no,1 month,True,2024-03-01,United States
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-11-01,United States
+Tigerair,1.0,False,Boeing 737,Solo Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2019-09-01,United States
+QantasLink,8.0,False,Others,Solo Leisure,Business Class,4.0,5.0,5.0,5.0,2.15,1.81,3.0,yes,1 month,False,2017-09-01,United States
+QantasLink,8.0,True,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-04-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+QantasLink,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2017-11-01,United States
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,United States
+Korean Air,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-08-01,United States
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.0,1.0,5.0,1.0,3.0,no,1 month,False,2023-07-01,United States
+China Southern Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,3.0,2.0,1.0,1.0,3.0,1.81,1.0,no,1 month,False,2024-01-01,United States
+Bulgaria Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,+3 months,False,2015-06-01,United States
+QantasLink,8.0,False,Others,Couple Leisure,Economy Class,3.0,4.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,True,2017-03-01,Australia
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,United States
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United States
+Thomson Airways,6.0,False,Others,Family Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.81,4.0,yes,1 month,True,2017-04-01,United States
+Thomson Airways,1.0,False,Boeing 737-800,Couple Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,True,2017-06-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,3.0,1.0,2.56,1.0,5.0,1.81,2.0,no,1 month,False,2017-07-01,United States
+Thomson Airways,1.0,True,A320,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2019-07-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,El Salvador
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,El Salvador
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,El Salvador
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,El Salvador
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,El Salvador
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,El Salvador
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,El Salvador
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,El Salvador
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,El Salvador
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,El Salvador
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,El Salvador
+Korean Air,8.0,True,Boeing 787-9,Solo Leisure,Economy Class,5.0,5.0,4.0,3.0,3.0,1.81,3.0,yes,1 month,False,2024-01-01,Philippines
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Costa Rica
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Costa Rica
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Costa Rica
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Costa Rica
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Costa Rica
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Costa Rica
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Costa Rica
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Costa Rica
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Costa Rica
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Costa Rica
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Costa Rica
+Korean Air,7.0,True,A330-200,Business,Business Class,4.0,4.0,5.0,3.0,2.0,1.81,4.0,yes,+3 months,False,2020-02-01,United States
+Korean Air,2.0,True,Unknown,Business,Business Class,2.0,3.0,3.0,1.0,1.0,1.0,2.0,no,1 month,False,2023-03-01,United States
+China Airlines,7.0,True,Others,Solo Leisure,Economy Class,4.0,4.0,5.0,3.0,5.0,3.0,4.0,yes,+3 months,False,2019-02-01,United States
+Bulgaria Air,3.0,True,A320,Business,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,3.0,no,1 month,True,2018-04-01,United States
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Germanwings,6.0,True,A319,Couple Leisure,Economy Class,3.0,3.0,2.56,3.0,1.0,1.81,5.0,yes,1 month,True,2019-07-01,El Salvador
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2015-11-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Guatemala
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Guatemala
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Guatemala
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Guatemala
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Guatemala
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Guatemala
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Guatemala
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Guatemala
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Guatemala
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Guatemala
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Guatemala
+China Airlines,1.0,True,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,2-3 months,False,2019-01-01,United States
+China Airlines,9.0,True,A350-900,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,United States
+Bulgaria Air,9.0,False,A319,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2015-08-01,United States
+Bulgaria Air,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-10-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Germanwings,7.0,False,A319,Couple Leisure,Economy Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,2-3 months,False,2015-10-01,United States
+Bangkok Airways,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-12-01,Thailand
+Dragonair,3.0,False,A320,Family Leisure,Economy Class,2.0,2.0,1.0,2.0,2.15,1.81,5.0,no,1 month,True,2015-07-01,United States
+Thomson Airways,9.0,False,Boeing 787,Couple Leisure,Premium Economy,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes,1 month,False,2015-11-01,United States
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,3.0,2.15,1.81,1.0,no,2-3 months,False,2017-02-01,United States
+Thomson Airways,9.0,False,Boeing 787,Couple Leisure,Premium Economy,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes,1 month,False,2015-11-01,United States
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,3.0,2.15,1.81,1.0,no,2-3 months,False,2017-02-01,United States
+Korean Air,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-08-01,Canada
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.0,1.0,5.0,1.0,3.0,no,1 month,False,2023-07-01,Canada
+China Southern Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,3.0,2.0,1.0,1.0,3.0,1.81,1.0,no,1 month,False,2024-01-01,Canada
+Bulgaria Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,+3 months,False,2015-06-01,Canada
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Honduras
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Honduras
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Honduras
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Honduras
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Honduras
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Honduras
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Honduras
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Honduras
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Honduras
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Honduras
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Honduras
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,4.0,3.0,4.0,1.81,2.0,no,2-3 months,False,2015-11-01,United States
+QantasLink,3.0,False,Unknown,Solo Leisure,Business Class,3.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,United States
+Bulgaria Air,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2022-06-01,United States
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Virgin Australia,1.0,False,Unknown,Family Leisure,Economy Class,2.0,3.0,1.0,1.0,1.0,1.0,1.0,no,2-3 months,True,2023-11-01,South Africa
+Virgin Australia,1.0,False,Unknown,Couple Leisure,Economy Class,2.0,4.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-11-01,South Africa
+Virgin Australia,3.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-11-01,South Africa
+Virgin Australia,6.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,True,2024-03-01,South Africa
+Tigerair,3.0,True,Unknown,Solo Leisure,Economy Class,3.0,1.0,1.0,1.0,2.15,1.81,4.0,no,1 month,False,2019-11-01,South Africa
+QantasLink,9.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,4.0,yes,1 month,False,2017-01-01,South Africa
+QantasLink,7.0,False,Others,Couple Leisure,Economy Class,3.0,4.0,3.0,4.0,4.0,1.81,4.0,yes,1 month,False,2017-02-01,South Africa
+QantasLink,3.0,False,Others,Couple Leisure,Economy Class,2.0,3.0,3.0,3.0,2.15,1.81,1.0,no,1 month,False,2017-04-01,South Africa
+QantasLink,8.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,True,2018-11-01,South Africa
+QantasLink,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2022-04-01,South Africa
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+QantasLink,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2017-11-01,United States
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,1.0,2.0,4.0,3.0,4.0,1.81,2.0,no,2-3 months,False,2015-11-01,United States
+QantasLink,3.0,False,Unknown,Solo Leisure,Business Class,3.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,False,2023-04-01,United States
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2017-06-01,United States
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2019-05-01,United States
+China Airlines,1.0,True,Others,Solo Leisure,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,2-3 months,False,2019-01-01,United States
+China Airlines,9.0,True,A350-900,Solo Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2019-10-01,United States
+Bulgaria Air,9.0,False,A319,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2015-08-01,United States
+Bulgaria Air,1.0,True,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2018-10-01,United States
+QantasLink,6.0,True,Others,Solo Leisure,Economy Class,3.0,3.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-02-01,United Kingdom
+Bangkok Airways,2.0,True,Others,Couple Leisure,Economy Class,1.0,4.0,4.0,1.0,2.15,1.81,3.0,no,1 month,False,2018-12-01,Thailand
+Bangkok Airways,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,True,2020-10-01,Thailand
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,3.0,4.0,1.81,5.0,yes,1 month,False,2015-08-01,United States
+Royal Brunei Airlines,7.0,False,Boeing 787-8,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,5.0,yes,1 month,False,2015-09-01,United States
+Royal Brunei Airlines,9.0,False,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,1.81,5.0,yes,+3 months,False,2015-12-01,United States
+Royal Brunei Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,4.0,1.0,5.0,yes,1 month,False,2018-02-01,United States
+Royal Brunei Airlines,5.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,1.0,4.0,1.81,5.0,no,1 month,False,2018-04-01,United States
+Royal Brunei Airlines,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,3.0,5.0,3.0,1.81,4.0,yes,1 month,False,2018-11-01,United States
+Royal Brunei Airlines,1.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,3.0,5.0,5.0,5.0,5.0,yes,1 month,False,2018-12-01,United States
+Royal Brunei Airlines,1.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2018-12-01,United States
+Royal Brunei Airlines,5.0,True,Unknown,Family Leisure,Economy Class,3.0,2.0,2.0,2.0,3.0,1.81,3.0,no,1 month,False,2019-04-01,United States
+Royal Brunei Airlines,1.0,False,Boeing 787,Family Leisure,Economy Class,4.0,5.0,5.0,1.0,5.0,5.0,1.0,no,1 month,False,2019-10-01,United States
+Royal Brunei Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,1.0,4.0,1.0,2.0,1.0,1.81,1.0,no,2-3 months,True,2020-02-01,United States
+Royal Brunei Airlines,2.0,True,Others,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.81,1.0,no,1 month,False,2023-01-01,United States
+Royal Brunei Airlines,9.0,False,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2023-08-01,United States
+Royal Brunei Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-09-01,United States
+Korean Air,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,5.0,4.0,5.0,3.0,1.81,5.0,yes,1 month,False,2019-11-01,United States
+Korean Air,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,4.0,5.0,4.0,4.0,1.81,4.0,yes,1 month,False,2023-01-01,United States
+Germanwings,2.0,False,Unknown,Business,Economy Class,1.0,2.0,2.0,2.0,2.15,1.81,1.0,no,1 month,True,2015-11-01,United States
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,+3 months,True,2023-09-01,United States
+China Southern Airlines,9.0,True,Boeing 787,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-09-01,United States
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,First Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,United States
+China Southern Airlines,1.0,True,Boeing 787,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2024-02-01,United States
+China Southern Airlines,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,4.0,1.0,1.0,1.0,1.81,2.0,no,1 month,True,2024-03-01,United States
+China Southern Airlines,2.0,True,Unknown,Couple Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2024-03-01,United States
+China Airlines,1.0,True,Unknown,Family Leisure,Economy Class,3.0,1.0,1.0,2.0,1.0,3.0,3.0,no,1 month,False,2020-03-01,United States
+Bulgaria Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,+3 months,False,2021-03-01,United States
+Korean Air,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-08-01,United States
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.0,1.0,5.0,1.0,3.0,no,1 month,False,2023-07-01,United States
+China Southern Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,3.0,2.0,1.0,1.0,3.0,1.81,1.0,no,1 month,False,2024-01-01,United States
+Bulgaria Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,+3 months,False,2015-06-01,United States
+Korean Air,9.0,True,A380,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,3.0,1.81,5.0,yes,1 month,False,2019-08-01,United States
+China Southern Airlines,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.0,1.0,5.0,1.0,3.0,no,1 month,False,2023-07-01,United States
+China Southern Airlines,3.0,True,Boeing 787,Couple Leisure,Economy Class,3.0,2.0,1.0,1.0,3.0,1.81,1.0,no,1 month,False,2024-01-01,United States
+Bulgaria Air,1.0,False,Others,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,1.81,4.0,yes,+3 months,False,2015-06-01,United States
+Virgin Australia,4.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.0,4.0,2.0,1.0,2.0,no,1 month,False,2023-11-01,United States
+Virgin Australia,2.0,False,Boeing 737-800,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,2.15,1.81,3.0,no,1 month,True,2024-03-01,United States
+Tigerair,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2018-11-01,United States
+Tigerair,1.0,False,Boeing 737,Solo Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2019-09-01,United States
+QantasLink,8.0,False,Others,Solo Leisure,Business Class,4.0,5.0,5.0,5.0,2.15,1.81,3.0,yes,1 month,False,2017-09-01,United States
+QantasLink,8.0,True,Others,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-04-01,United States
+Thomson Airways,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,1.81,5.0,yes,1 month,False,2017-06-01,Portugal
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2015-07-01,Russia
+Bulgaria Air,8.0,False,E190,Solo Leisure,Business Class,4.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,+3 months,False,2017-01-01,Russia
+Bulgaria Air,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2019-08-01,Russia
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Bulgaria Air,4.0,True,A320,Solo Leisure,Economy Class,1.0,3.0,3.0,5.0,2.15,1.81,5.0,no,1 month,False,2019-09-01,United States
+Germanwings,6.0,True,A319,Couple Leisure,Economy Class,3.0,3.0,2.56,3.0,1.0,1.81,5.0,yes,1 month,True,2019-07-01,United States
+Thomson Airways,2.0,False,Boeing 737-800,Family Leisure,Economy Class,1.0,3.0,1.0,3.0,2.15,1.81,3.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,2.0,False,Others,Couple Leisure,Premium Economy,1.0,1.0,1.0,1.0,3.0,1.0,1.0,no,1 month,False,2015-10-01,United States
+Thomson Airways,7.0,False,Others,Solo Leisure,Premium Economy,4.0,4.0,3.0,3.0,3.0,3.0,4.0,yes,1 month,True,2015-12-01,United States
+Thomson Airways,4.0,False,Others,Couple Leisure,Economy Class,1.0,3.0,3.0,3.0,2.0,1.81,1.0,no,1 month,False,2017-03-01,United States
+Thomson Airways,1.0,False,Boeing 787,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,+3 months,False,2017-04-01,United States
+Thomson Airways,1.0,False,Others,Business,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2017-07-01,United States
+Thomson Airways,3.0,False,Boeing 767,Family Leisure,Economy Class,1.0,3.0,2.0,1.0,2.0,1.81,2.0,no,1 month,True,2017-08-01,United States
+Thomson Airways,7.0,False,Boeing 737-800,Family Leisure,Economy Class,4.0,2.0,2.56,4.0,1.0,1.81,2.0,yes,+3 months,True,2017-11-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no,1 month,False,2019-02-01,United States
+Korean Air,1.0,True,Boeing 777,Family Leisure,Economy Class,3.0,5.0,5.0,5.0,4.0,4.0,3.0,yes,2-3 months,False,2023-07-01,United States
+Korean Air,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2019-01-01,Honduras
+Korean Air,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,5.0,5.0,5.0,1.81,5.0,yes,1 month,False,2019-03-01,Honduras
+Korean Air,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2020-03-01,Honduras
+Korean Air,1.0,True,Unknown,Couple Leisure,Economy Class,2.0,2.0,1.0,1.0,4.0,1.81,1.0,no,1 month,False,2022-07-01,Honduras
+Hong Kong Airlines,4.0,True,A350,Solo Leisure,Business Class,4.0,2.0,2.0,5.0,2.0,1.81,5.0,no,1 month,False,2019-03-01,Honduras
+China Airlines,9.0,True,Boeing 777-300ER,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,5.0,1.81,5.0,yes,1 month,False,2019-01-01,Honduras
+China Airlines,6.0,False,Others,Business,Business Class,4.0,4.0,2.0,2.0,2.0,1.0,4.0,yes,1 month,False,2019-01-01,Honduras
+China Airlines,3.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.0,2.0,3.0,1.0,2.0,no,1 month,False,2022-12-01,Honduras
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-02-01,Honduras
+China Airlines,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,False,2023-04-01,Honduras
+China Airlines,7.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,3.0,3.0,4.0,4.0,4.0,yes,1 month,False,2023-09-01,Honduras
+China Airlines,7.0,True,Others,Couple Leisure,Business Class,4.0,5.0,4.0,1.0,3.0,1.0,4.0,yes,1 month,False,2023-05-01,Palau
+QantasLink,2.0,False,Unknown,Business,Economy Class,1.0,1.0,1.0,5.0,2.15,1.81,1.0,no,1 month,True,2015-08-01,Australia
+QantasLink,2.0,True,Unknown,Business,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2018-03-01,Australia
+Dragonair,9.0,False,Unknown,Family Leisure,Economy Class,4.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2015-08-01,Vietnam
+Bangkok Airways,7.0,True,A319,Business,Economy Class,3.0,5.0,5.0,3.0,2.15,1.81,5.0,yes,1 month,False,2022-09-01,Vietnam
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,+3 months,False,2022-10-01,Australia
+Virgin Australia,3.0,False,Others,Couple Leisure,Economy Class,3.0,3.0,3.0,1.0,3.0,2.0,3.0,no,1 month,False,2022-10-01,Australia
+Virgin Australia,7.0,True,Boeing 737,Solo Leisure,Business Class,3.0,4.0,4.0,4.0,4.0,4.0,3.0,yes,1 month,False,2023-06-01,Australia
+Virgin Australia,9.0,False,Others,Couple Leisure,Business Class,5.0,5.0,5.0,4.0,4.0,4.0,5.0,yes,1 month,False,2023-08-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Business Class,4.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-10-01,Australia
+Virgin Australia,8.0,True,Others,Solo Leisure,Business Class,4.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,True,2022-10-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Spain
+Volotea,8.0,True,A320,Family Leisure,Economy Class,4.0,4.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Spain
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,4.0,5.0,4.0,5.0,5.0,yes,1 month,False,2023-11-01,Spain
+Virgin Australia,1.0,True,Others,Business,First Class,3.0,5.0,3.0,5.0,3.0,2.0,1.0,no,+3 months,True,2023-09-01,Papua New Guinea
+Volotea,9.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,1 month,False,2023-05-01,France
+Volotea,1.0,True,A320,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,4.0,4.0,yes,1 month,False,2023-07-01,France
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,4.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,France
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,5.0,5.0,yes,1 month,False,2023-08-01,France
+Volotea,8.0,True,A319,Family Leisure,Economy Class,4.0,5.0,2.0,5.0,2.15,1.81,4.0,yes,1 month,False,2023-09-01,France
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,3.0,3.0,5.0,yes,1 month,False,2023-11-01,France
+Volotea,1.0,True,A320,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,France
+Virgin Australia,8.0,True,Others,Solo Leisure,Business Class,4.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,True,2022-10-01,South Africa
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,South Africa
+Virgin Australia,1.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,2.0,2.15,1.81,3.0,no,1 month,True,2022-10-01,Australia
+Virgin Australia,1.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2022-10-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.0,2.15,1.81,1.0,no,+3 months,True,2022-10-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,False,2022-11-01,Australia
+Virgin Australia,2.0,False,Boeing 737-700,Business,Economy Class,3.0,1.0,2.0,5.0,2.0,2.0,1.0,no,1 month,True,2022-11-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,2.0,1.0,1.0,2.15,1.81,2.0,no,1 month,False,2022-12-01,Australia
+Virgin Australia,1.0,False,Boeing 737-800,Business,Business Class,3.0,2.0,2.56,1.0,2.0,1.0,1.0,no,2-3 months,True,2022-12-01,Australia
+Virgin Australia,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,True,2022-12-01,Australia
+Virgin Australia,3.0,False,Unknown,Couple Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.81,2.0,no,1 month,True,2023-01-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2023-01-01,Australia
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-02-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,2.56,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,True,2023-06-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-07-01,Australia
+Virgin Australia,2.0,True,Unknown,Family Leisure,Economy Class,1.0,3.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-09-01,Australia
+Volotea,1.0,False,Unknown,Business,Economy Class,3.0,2.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-05-01,Spain
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,3.0,2.15,1.81,3.0,no,1 month,False,2023-06-01,Spain
+Volotea,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,5.0,5.0,3.0,yes,1 month,False,2023-08-01,Italy
+Volotea,1.0,False,Unknown,Business,Economy Class,3.0,2.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-05-01,Venezuela
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,3.0,2.15,1.81,3.0,no,1 month,False,2023-06-01,Venezuela
+Volotea,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2023-05-01,Spain
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,Spain
+Volotea,1.0,False,Unknown,Couple Leisure,Economy Class,5.0,5.0,3.0,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,Spain
+Volotea,1.0,True,A320,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.0,5.0,yes,1 month,False,2023-10-01,France
+Volotea,9.0,True,Unknown,Solo Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2024-02-01,France
+Volotea,9.0,True,Others,Family Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-03-01,France
+Volotea,1.0,False,Unknown,Business,Economy Class,3.0,2.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-05-01,Philippines
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,3.0,2.15,1.81,3.0,no,1 month,False,2023-06-01,Philippines
+Volotea,8.0,True,Unknown,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,5.0,5.0,3.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,A319,Business,Economy Class,4.0,5.0,5.0,5.0,2.15,3.0,5.0,yes,1 month,False,2024-02-01,France
+Volotea,9.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,3.0,4.0,yes,1 month,True,2023-08-01,Spain
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,Spain
+Volotea,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,4.0,1.0,1.0,3.0,no,1 month,False,2023-10-01,Spain
+Volotea,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,Spain
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,True,2023-06-01,France
+Volotea,9.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,3.0,4.0,yes,1 month,True,2023-08-01,Colombia
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,Colombia
+Volotea,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,4.0,1.0,1.0,3.0,no,1 month,False,2023-10-01,Colombia
+Volotea,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,Colombia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,True,2022-11-01,Australia
+Volotea,9.0,False,Unknown,Solo Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,3.0,4.0,yes,1 month,True,2023-08-01,Philippines
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,2.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,Philippines
+Volotea,2.0,True,Unknown,Couple Leisure,Economy Class,2.0,1.0,2.56,4.0,1.0,1.0,3.0,no,1 month,False,2023-10-01,Philippines
+Volotea,1.0,False,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,Philippines
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,5.0,1.0,1.0,1.0,no,1 month,True,2022-11-01,United Kingdom
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2022-10-01,Australia
+Virgin Australia,1.0,True,Boeing 737-800,Couple Leisure,Economy Class,3.0,5.0,4.0,5.0,3.0,1.0,4.0,yes,1 month,False,2022-10-01,Australia
+Virgin Australia,9.0,True,Boeing 737-800,Business,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2022-10-01,Australia
+Virgin Australia,2.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2022-10-01,Australia
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2022-10-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-11-01,Australia
+Virgin Australia,8.0,True,Boeing 737-800,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-11-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,True,2022-12-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-01-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-01-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-02-01,Australia
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-02-01,Australia
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Business Class,4.0,5.0,4.0,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,9.0,False,Unknown,Business,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,7.0,True,Others,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-03-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,2.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,1.0,1.0,1.0,1.0,2.0,no,1 month,True,2023-03-01,Australia
+Virgin Australia,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,5.0,2.56,1.0,2.15,1.0,1.0,no,1 month,False,2023-06-01,Australia
+Virgin Australia,1.0,True,Unknown,Couple Leisure,Business Class,2.6,2.87,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-08-01,Australia
+Virgin Australia,9.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,4.0,1.81,5.0,yes,1 month,False,2023-09-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,2.0,4.0,3.0,3.0,1.0,no,1 month,False,2023-10-01,Australia
+Virgin Australia,7.0,False,Boeing 737,Family Leisure,Premium Economy,4.0,5.0,3.0,2.0,1.0,1.81,3.0,yes,+3 months,True,2023-10-01,Australia
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-10-01,Australia
+Virgin Australia,1.0,False,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.56,2.0,2.15,1.81,1.0,no,1 month,True,2023-10-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,Australia
+Volotea,8.0,False,Unknown,Family Leisure,Economy Class,5.0,1.0,1.0,5.0,1.0,1.0,5.0,yes,1 month,False,2023-08-01,Spain
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,2.0,2.0,4.0,yes,1 month,False,2023-11-01,Spain
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,Italy
+Volotea,1.0,True,A320,Couple Leisure,Economy Class,4.0,4.0,4.0,4.0,2.15,1.81,5.0,yes,1 month,False,2023-05-01,France
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,no,1 month,False,2023-07-01,France
+Volotea,9.0,False,A320,Couple Leisure,Economy Class,4.0,4.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,France
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,Italy
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,Italy
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,4.0,4.0,5.0,yes,1 month,False,2023-10-01,Spain
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2022-10-01,United States
+Virgin Australia,1.0,True,Boeing 737-800,Couple Leisure,Economy Class,3.0,5.0,4.0,5.0,3.0,1.0,4.0,yes,1 month,False,2022-10-01,United States
+Virgin Australia,9.0,True,Boeing 737-800,Business,Business Class,5.0,5.0,5.0,5.0,4.0,1.81,5.0,yes,1 month,False,2022-10-01,United States
+Virgin Australia,2.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2022-10-01,United States
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2022-10-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-11-01,United States
+Virgin Australia,8.0,True,Boeing 737-800,Couple Leisure,Business Class,5.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2022-11-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,True,2022-12-01,United States
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-01-01,United States
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-01-01,United States
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-02-01,United States
+Virgin Australia,6.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,True,2023-02-01,United States
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Business Class,4.0,5.0,4.0,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,United States
+Virgin Australia,9.0,False,Unknown,Business,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,4.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,United States
+Virgin Australia,7.0,True,Others,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2023-03-01,United States
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,1 month,True,2023-03-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,2.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,United States
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,2.0,2.0,1.0,1.0,1.0,1.0,2.0,no,1 month,True,2023-03-01,United States
+Virgin Australia,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,5.0,2.56,1.0,2.15,1.0,1.0,no,1 month,False,2023-06-01,United States
+Virgin Australia,1.0,True,Unknown,Couple Leisure,Business Class,2.6,2.87,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-08-01,United States
+Virgin Australia,9.0,True,Unknown,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,4.0,1.81,5.0,yes,1 month,False,2023-09-01,United States
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,4.0,4.0,2.0,4.0,3.0,3.0,1.0,no,1 month,False,2023-10-01,United States
+Virgin Australia,7.0,False,Boeing 737,Family Leisure,Premium Economy,4.0,5.0,3.0,2.0,1.0,1.81,3.0,yes,+3 months,True,2023-10-01,United States
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,4.0,2.15,1.81,3.0,yes,1 month,False,2023-10-01,United States
+Virgin Australia,1.0,False,Unknown,Solo Leisure,Economy Class,2.0,2.0,2.56,2.0,2.15,1.81,1.0,no,1 month,True,2023-10-01,United States
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-11-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,4.0,1.0,1.0,1.0,1.0,1.0,no,2-3 months,False,2023-09-01,South Africa
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,India
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,India
+Volotea,8.0,False,Unknown,Family Leisure,Economy Class,5.0,1.0,1.0,5.0,1.0,1.0,5.0,yes,1 month,False,2023-08-01,Colombia
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,2.0,2.0,4.0,yes,1 month,False,2023-11-01,Colombia
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,India
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2023-08-01,India
+Volotea,8.0,False,Unknown,Family Leisure,Economy Class,5.0,1.0,1.0,5.0,1.0,1.0,5.0,yes,1 month,False,2023-08-01,Philippines
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,4.0,5.0,3.0,5.0,2.0,2.0,4.0,yes,1 month,False,2023-11-01,Philippines
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Virgin Australia,1.0,True,Unknown,Family Leisure,Economy Class,1.0,4.0,1.0,1.0,1.0,1.0,1.0,no,2-3 months,False,2023-09-01,Australia
+Volotea,2.0,True,A320,Solo Leisure,Economy Class,2.0,2.0,2.0,1.0,2.15,1.81,1.0,no,1 month,True,2023-10-01,France
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,5.0,5.0,2.15,1.81,5.0,yes,1 month,False,2024-02-01,France
+Volotea,1.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,2.0,no,1 month,False,2023-06-01,France
+Volotea,9.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,4.0,3.0,5.0,4.0,yes,1 month,False,2023-08-01,France
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,4.0,4.0,2.56,4.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,France
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,2.6,2.87,2.56,2.36,2.15,1.81,1.0,no,1 month,True,2024-03-01,France
+Volotea,8.0,True,A320,Couple Leisure,Economy Class,4.0,4.0,2.0,3.0,2.0,4.0,4.0,yes,1 month,False,2023-06-01,France
+Volotea,1.0,True,A320,Family Leisure,Economy Class,3.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,True,2023-08-01,France
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,France
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,4.0,yes,1 month,False,2023-11-01,France
+Volotea,8.0,False,Unknown,Couple Leisure,Economy Class,4.0,4.0,3.0,4.0,2.15,1.81,4.0,yes,1 month,False,2023-12-01,France
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,5.0,5.0,4.0,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,France
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,1.0,5.0,5.0,yes,1 month,True,2023-08-01,France
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,1 month,False,2023-11-01,France
+Virgin Australia,1.0,False,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,2.15,1.81,1.0,no,1 month,False,2023-01-01,Australia
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,1.0,5.0,5.0,yes,1 month,True,2023-08-01,Belgium
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,4.0,5.0,yes,1 month,False,2023-11-01,Belgium
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,1.0,3.0,2.56,1.0,1.0,1.0,1.0,no,1 month,True,2023-08-01,Japan
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,Greece
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,Greece
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,Greece
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,Greece
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,Greece
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,Greece
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,Greece
+Volotea,3.0,True,Unknown,Solo Leisure,Economy Class,1.0,1.0,1.0,1.0,1.0,1.81,3.0,no,1 month,False,2024-01-01,Germany
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,no,1 month,False,2023-12-01,Germany
+Virgin Australia,5.0,False,Boeing 737,Solo Leisure,Economy Class,3.0,4.0,1.0,5.0,3.0,1.81,1.0,no,1 month,False,2022-11-01,Australia
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Spain
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Spain
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Venezuela
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Venezuela
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-01-01,Spain
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Business Class,4.0,5.0,4.0,4.0,2.15,1.81,4.0,yes,1 month,False,2023-01-01,Australia
+Virgin Australia,9.0,True,Boeing 737-800,Solo Leisure,Business Class,4.0,5.0,4.0,5.0,2.15,1.81,3.0,yes,1 month,False,2023-03-01,Australia
+Virgin Australia,8.0,True,Boeing 737-800,Solo Leisure,Business Class,4.0,4.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2023-06-01,Australia
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-02-01,South Africa
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-02-01,United Kingdom
+Volotea,9.0,True,A319,Couple Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,4.0,5.0,yes,1 month,False,2023-05-01,Italy
+Volotea,1.0,False,Unknown,Family Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-07-01,Italy
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,5.0,5.0,yes,1 month,False,2023-08-01,Italy
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-05-01,Italy
+Volotea,9.0,True,A320,Couple Leisure,Premium Economy,5.0,4.0,2.56,4.0,2.15,1.81,4.0,yes,1 month,True,2023-10-01,Italy
+Volotea,1.0,False,Others,Couple Leisure,First Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-11-01,Italy
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Philippines
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Philippines
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-02-01,Australia
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,United States
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,United States
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,no,1 month,False,2023-12-01,United States
+Virgin Australia,5.0,False,Boeing 737,Solo Leisure,Economy Class,3.0,4.0,1.0,5.0,3.0,1.81,1.0,no,1 month,False,2022-11-01,United Kingdom
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Colombia
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Colombia
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Philippines
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Philippines
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,False,2023-08-01,Spain
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Philippines
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Philippines
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,United States
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,United States
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-05-01,United States
+Volotea,9.0,True,A320,Couple Leisure,Premium Economy,5.0,4.0,2.56,4.0,2.15,1.81,4.0,yes,1 month,True,2023-10-01,United States
+Volotea,1.0,False,Others,Couple Leisure,First Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Ecuador
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Ecuador
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,United States
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,United States
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-01-01,Colombia
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,United States
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,United States
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-02-01,United States
+Volotea,2.0,False,Unknown,Family Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-06-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,5.0,2.56,4.0,2.15,2.0,5.0,yes,1 month,False,2023-06-01,United States
+Volotea,3.0,False,Unknown,Solo Leisure,Economy Class,3.0,3.0,2.56,1.0,2.0,1.81,2.0,no,1 month,False,2023-06-01,United States
+Volotea,9.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,5.0,5.0,5.0,yes,1 month,True,2023-08-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,False,2023-08-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,4.0,4.0,2.56,5.0,4.0,3.0,5.0,yes,1 month,False,2023-08-01,United States
+Volotea,1.0,True,Unknown,Solo Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Volotea,1.0,True,Others,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,2.0,5.0,yes,1 month,False,2023-07-01,Trinidad and Tobago
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-10-01,Trinidad and Tobago
+Virgin Australia,1.0,True,Unknown,Solo Leisure,Economy Class,2.0,1.0,2.56,1.0,2.15,1.81,3.0,no,1 month,False,2023-02-01,United States
+Virgin Australia,7.0,True,Unknown,Couple Leisure,Economy Class,3.0,4.0,2.56,2.0,2.15,1.81,3.0,yes,1 month,True,2023-09-01,Australia
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,France
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,France
+Volotea,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,1.0,3.0,1.81,5.0,yes,1 month,False,2023-06-01,Italy
+Virgin Australia,7.0,True,Others,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,3.0,yes,1 month,False,2022-10-01,Australia
+Virgin Australia,1.0,False,Boeing 737-800,Couple Leisure,Economy Class,2.0,3.0,2.0,1.0,1.0,1.0,1.0,no,1 month,True,2022-12-01,Australia
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,5.0,4.0,4.0,4.0,4.0,5.0,5.0,yes,1 month,True,2023-08-01,Bulgaria
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,True,2022-11-01,Australia
+Virgin Australia,1.0,True,Unknown,Business,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,True,2023-11-01,Australia
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,True,2022-11-01,United States
+Virgin Australia,1.0,True,Unknown,Business,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,True,2023-11-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,Canada
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,Canada
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,United States
+Volotea,1.0,True,A319,Family Leisure,Economy Class,5.0,5.0,2.56,1.0,2.15,1.81,5.0,yes,1 month,False,2023-11-01,United States
+Volotea,9.0,True,A319,Solo Leisure,Economy Class,4.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-12-01,United States
+Virgin Australia,7.0,True,Boeing 737-800,Solo Leisure,Economy Class,3.0,5.0,3.0,5.0,2.15,1.81,4.0,yes,1 month,True,2022-11-01,United States
+Virgin Australia,1.0,True,Unknown,Business,Economy Class,1.0,1.0,2.56,1.0,2.15,1.0,1.0,no,1 month,True,2023-11-01,United States
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,5.0,4.0,4.0,4.0,4.0,5.0,5.0,yes,1 month,True,2023-08-01,Russia
+Volotea,9.0,False,Unknown,Solo Leisure,Economy Class,5.0,5.0,2.56,1.0,3.0,1.81,5.0,yes,1 month,False,2023-06-01,El Salvador
+Volotea,8.0,True,A320,Family Leisure,Economy Class,4.0,4.0,2.56,4.0,2.15,1.81,4.0,yes,1 month,False,2023-04-01,Italy
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,5.0,4.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,Italy
+Volotea,1.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,5.0,5.0,2.15,5.0,5.0,yes,1 month,False,2023-06-01,France
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-07-01,Italy
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,Italy
+Volotea,3.0,False,Unknown,Couple Leisure,Economy Class,1.0,1.0,2.56,1.0,2.15,1.81,1.0,no,1 month,True,2023-12-01,Luxembourg
+Volotea,1.0,True,Unknown,Business,Economy Class,5.0,5.0,2.56,5.0,5.0,1.81,5.0,yes,1 month,True,2023-04-01,Philippines
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes,1 month,False,2023-06-01,Philippines
+Volotea,9.0,True,Unknown,Family Leisure,Economy Class,5.0,5.0,4.0,5.0,4.0,5.0,5.0,yes,1 month,False,2023-10-01,Philippines
+Volotea,8.0,True,A320,Family Leisure,Economy Class,4.0,4.0,2.56,4.0,2.15,1.81,4.0,yes,1 month,False,2023-04-01,United States
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,5.0,4.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,United States
+Volotea,8.0,True,A320,Family Leisure,Economy Class,4.0,4.0,2.56,4.0,2.15,1.81,4.0,yes,1 month,False,2023-04-01,United States
+Volotea,9.0,True,A320,Couple Leisure,Economy Class,5.0,4.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2024-01-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-07-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,2.56,5.0,2.15,1.81,5.0,yes,1 month,False,2023-07-01,United States
+Volotea,1.0,True,Unknown,Couple Leisure,Economy Class,5.0,5.0,5.0,4.0,5.0,5.0,5.0,yes,1 month,False,2024-03-01,United States
